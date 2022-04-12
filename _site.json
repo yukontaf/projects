@@ -15,6 +15,13 @@
       "fileSize" : 1582
     },
     {
+      "path" : "churn-analysis.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649784841,
+      "checksum" : "cb3dcd1f600beeb888e54cce9a697d16",
+      "fileSize" : 1349623
+    },
+    {
       "path" : "index.md",
       "mimeType" : "text/markdown",
       "lastUpdated" : 1649784565,
@@ -27,13 +34,6 @@
       "lastUpdated" : 1647210233,
       "checksum" : "a6da5ab6e6c0a0582e6708589ce4905f",
       "fileSize" : 28435
-    },
-    {
-      "path" : "churn-analysis-famous-trio-imbalanced-data-optuna.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784841,
-      "checksum" : "cb3dcd1f600beeb888e54cce9a697d16",
-      "fileSize" : 1349623
     },
     {
       "path" : "Резюме.markdown",
