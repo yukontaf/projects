@@ -1,0 +1,60 @@
+{
+  "items" : [
+    {
+      "path" : ".DS_Store",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649782362,
+      "checksum" : "194577a7e20bdcc7afbb718f502c134c",
+      "fileSize" : 6148
+    },
+    {
+      "path" : "_site.json",
+      "mimeType" : "application/json",
+      "lastUpdated" : 1649783542,
+      "checksum" : "c790340619a372ad82b68bce3a09c84a",
+      "fileSize" : 1582
+    },
+    {
+      "path" : "cohort-analysis.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1649781931,
+      "checksum" : "e39a011ce9f280c1b24a046209611b28",
+      "fileSize" : 1755063
+    },
+    {
+      "path" : "index.md",
+      "mimeType" : "text/markdown",
+      "lastUpdated" : 1649782807,
+      "checksum" : "64f5094d9af0a17216ffd91e20e5d344",
+      "fileSize" : 1701
+    },
+    {
+      "path" : "resume.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1647210233,
+      "checksum" : "a6da5ab6e6c0a0582e6708589ce4905f",
+      "fileSize" : 28435
+    },
+    {
+      "path" : "churn-analysis.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1649780539,
+      "checksum" : "e4c6288cf431eacbf24621b64706ef9f",
+      "fileSize" : 1300272
+    },
+    {
+      "path" : "Резюме.markdown",
+      "mimeType" : "text/markdown",
+      "lastUpdated" : 1635853356,
+      "checksum" : "f7aa8e3c23977cbf990acb3ed4473759",
+      "fileSize" : 5223
+    },
+    {
+      "path" : "index.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1649782456,
+      "checksum" : "9726966cac1070b46e249f80e2617f5b",
+      "fileSize" : 24847
+    }
+  ]
+}
