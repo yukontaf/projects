@@ -16,7 +16,7 @@ Within this work I've  done some basic exploratory data analysis, the main purpo
 
 ### Customer Churn Prediction
 
-[Here](churn-analysis.html) I've done some basic EDA, the main purpose: to create efficient model to predict churn of the client given some parameters. I've also planned to build a web app (via streamlit) to make it easy to make predictions specially for the part of audience that doesn't have a configured jupyter notebook at hand. Via this work I demonstrate the abilty not only to build but also a fine tune a ML model with optuna package.
+[Here](https://github.com/yukontaf/projects/blob/master/churn-analysis-famous-trio-imbalanced-data-optuna.ipynb)) I've done some basic EDA, the main purpose: to create efficient model to predict churn of the client given some parameters. I've also planned to build a web app (via streamlit) to make it easy to make predictions specially for the part of audience that doesn't have a configured jupyter notebook at hand. Via this work I demonstrate the abilty not only to build but also a fine tune a ML model with optuna package.
 
 ### ETL pipeline
 
@@ -24,4 +24,4 @@ This is not a full-scale work, via this script I would like to demonstrate the f
 
 ### Cohort Analysis and Dataviz
 
-[Here](cohort-analysis.html) I've made an attempt to visualize some basic info that was available.
+[Here](https://github.com/yukontaf/projects/blob/master/Case6.ipynb) I've made an attempt to visualize some basic info that was available.

@@ -15,18 +15,11 @@
       "fileSize" : 1582
     },
     {
-      "path" : "cohort-analysis.html",
-      "mimeType" : "text/html",
-      "lastUpdated" : 1649781931,
-      "checksum" : "e39a011ce9f280c1b24a046209611b28",
-      "fileSize" : 1755063
-    },
-    {
       "path" : "index.md",
       "mimeType" : "text/markdown",
-      "lastUpdated" : 1649782807,
-      "checksum" : "64f5094d9af0a17216ffd91e20e5d344",
-      "fileSize" : 1701
+      "lastUpdated" : 1649784565,
+      "checksum" : "33c4c8dace80ee252324948874dce8d5",
+      "fileSize" : 1827
     },
     {
       "path" : "resume.html",
@@ -38,16 +31,9 @@
     {
       "path" : "churn-analysis-famous-trio-imbalanced-data-optuna.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649780495,
-      "checksum" : "ec002e01b9d74b81305de5f54942fbce",
-      "fileSize" : 1349738
-    },
-    {
-      "path" : "churn-analysis.html",
-      "mimeType" : "text/html",
-      "lastUpdated" : 1649780539,
-      "checksum" : "e4c6288cf431eacbf24621b64706ef9f",
-      "fileSize" : 1300272
+      "lastUpdated" : 1649784841,
+      "checksum" : "cb3dcd1f600beeb888e54cce9a697d16",
+      "fileSize" : 1349623
     },
     {
       "path" : "Резюме.markdown",
@@ -66,9 +52,9 @@
     {
       "path" : "index.html",
       "mimeType" : "text/html",
-      "lastUpdated" : 1649782456,
-      "checksum" : "9726966cac1070b46e249f80e2617f5b",
-      "fileSize" : 24847
+      "lastUpdated" : 1649784611,
+      "checksum" : "c7eb2b2373c56d34bed64c91233f1bdb",
+      "fileSize" : 24889
     }
   ]
 }
