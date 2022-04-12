@@ -15,13 +15,6 @@
       "fileSize" : 73
     },
     {
-      "path" : "Untitled.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649798749,
-      "checksum" : "d0ea6bd5e8c32abe574a33c19d3dbaed",
-      "fileSize" : 34095
-    },
-    {
       "path" : "cohort_analysis.html",
       "mimeType" : "text/html",
       "lastUpdated" : 1649793413,
@@ -69,6 +62,13 @@
       "lastUpdated" : 1649793056,
       "checksum" : "c651a815d3e477f36fcb550052161b85",
       "fileSize" : 41
+    },
+    {
+      "path" : "cohort-analysis.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1649793399,
+      "checksum" : "be0a57495bc9097e633c92326fbd2741",
+      "fileSize" : 509
     },
     {
       "path" : ".git/hooks/prepare-commit-msg.sample",
@@ -393,6 +393,13 @@
       "fileSize" : 416
     },
     {
+      "path" : "tables.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798749,
+      "checksum" : "d0ea6bd5e8c32abe574a33c19d3dbaed",
+      "fileSize" : 34095
+    },
+    {
       "path" : ".git/objects/a6/7324195e00ecb79c42a475a526e6ec23314820",
       "mimeType" : "application/octet-stream",
       "lastUpdated" : 1649789835,
@@ -472,9 +479,9 @@
     {
       "path" : "_site.json",
       "mimeType" : "application/json",
-      "lastUpdated" : 1649785087,
-      "checksum" : "46d07ad493d171270995c85477f571ef",
-      "fileSize" : 1802
+      "lastUpdated" : 1649793354,
+      "checksum" : "e530fe6b1897fe98864fa1a14446f4c8",
+      "fileSize" : 21722
     },
     {
       "path" : ".git/hooks/push-to-checkout.sample",
@@ -496,6 +503,13 @@
       "lastUpdated" : 1649789835,
       "checksum" : "25789c4fa310cbd02cb4809eea9cb2c6",
       "fileSize" : 594
+    },
+    {
+      "path" : "churn-analysis.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1649793400,
+      "checksum" : "32b55ba6cd6b5af074ddf200941a8477",
+      "fileSize" : 509
     },
     {
       "path" : ".git/objects/eb/c90814b30aa74074d125e888e3ce71a1c49630",
