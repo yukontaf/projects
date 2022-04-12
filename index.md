@@ -8,7 +8,7 @@ List of projects:
 
 - ETL pipeline
 
-- Cohort Analysis & dataviz
+- Cohort Analysis & simple dataviz
 
 - Credit Default Scoring (Hypothesis Testing)
 
@@ -32,4 +32,23 @@ This is not a full-scale work. Via this script I would like to demonstrate the f
 
 ### Credit Default Scoring (Hypothesis Testing)
 
-In [this](https://github.com/yukontaf/projects/blob/master/credit_score_default.ipynb) script written in R, I've done some exploratory data analysis and tested hypothesis concerning default, i.e. how does presence in certain social category (sex, marriage, education level) impact the returning of credit.
+In [this](https://github.com/yukontaf/projects/blob/master/credit_score_default.ipynb) script written in R, I've done some exploratory data analysis and tested hypothesis concerning default, i.e. how does presence in certain social category (sex, marriage, education level) impact the returning of credit, and also answered the question if the mean credit limit differs for default and non-default groups.
+
+
+
+
+### SQL scripts
+
+Here are some SQL scripts, written by me.
+
+- [Script 1](https://github.com/yukontaf/projects/blob/master/script1.sql)
+
+- [Script 2](https://github.com/yukontaf/projects/blob/master/script2.sql)
+
+- [Script 3](https://github.com/yukontaf/projects/blob/master/script3.sql)
+
+- [Script 4](https://github.com/yukontaf/projects/blob/master/script4.sql)
+
+- [Script 5](https://github.com/yukontaf/projects/blob/master/script5.sql)
+
+- And [here](https://github.com/yukontaf/projects/blob/master/tables.ipynb) is a notebook where you can see the tables to which these queries are made.
