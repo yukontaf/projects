@@ -14,7 +14,7 @@ WITH level_1 AS (
                 ad_date
         ) AS rn
     FROM
-        skymusic.marketing_pilot_proc
+        skymusic_marketing_pilot_proc
     WHERE
         time_left IS NOT NULL
 ),

@@ -61,8 +61,8 @@ FROM
             name_city,
             count(*) AS cnt
         FROM
-            skybank.late_collection_clients a
-            LEFT JOIN skybank.region_dict b ON a.id_city = b.id_city
+            skybank_late_collection_clients a
+            LEFT JOIN skybank_region_dict b ON a.id_city = b.id_city
         GROUP BY
             month_loan,
             name_city

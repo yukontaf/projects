@@ -23,8 +23,8 @@ FROM
                         END
                     ) / count(*) AS o2r
                 FROM
-                    skytaxi.order_list a
-                    LEFT JOIN skytaxi.tariff_dict b ON a.id_tariff = b.id_tariff
+                    skytaxi_order_list a
+                    LEFT JOIN skytaxi_tariff_dict b ON a.id_tariff = b.id_tariff
                 WHERE
                     1 = 1
                     AND name_tariff IN ('Эконом', 'Комфорт')

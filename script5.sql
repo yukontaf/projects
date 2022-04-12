@@ -4,7 +4,7 @@ WITH cnt_by_driver AS (
         id_driver,
         count(*) AS cnt
     FROM
-        skytaxi.order_list
+        skytaxi_order_list
     WHERE
         1 = 1
         AND id_driver IS NOT NULL
@@ -21,7 +21,7 @@ o2r_by_driver AS (
             END
         ) :: float / count(*) AS o2r
     FROM
-        skytaxi.order_list
+        skytaxi_order_list
     WHERE
         1 = 1
         AND id_driver IS NOT NULL
