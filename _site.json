@@ -15,6 +15,13 @@
       "fileSize" : 73
     },
     {
+      "path" : "Untitled.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649795211,
+      "checksum" : "2f6cceae1d861df553a6ebb64b6862ef",
+      "fileSize" : 72
+    },
+    {
       "path" : "cohort_analysis.html",
       "mimeType" : "text/html",
       "lastUpdated" : 1649793413,
@@ -90,6 +97,13 @@
       "lastUpdated" : 1649783700,
       "checksum" : "56e45f2bcbc8226d2b4200f7c46371bf",
       "fileSize" : 4898
+    },
+    {
+      "path" : "script2.sql",
+      "mimeType" : "application/sql",
+      "lastUpdated" : 1649794691,
+      "checksum" : "44da40aff6f2af321e70023d1312a7e0",
+      "fileSize" : 1801
     },
     {
       "path" : ".git/objects/cc/231f0676461d7a17bc2360746a631a23d39839",
@@ -232,6 +246,13 @@
       "fileSize" : 15595
     },
     {
+      "path" : "script4.sql",
+      "mimeType" : "application/sql",
+      "lastUpdated" : 1649795005,
+      "checksum" : "ee1fc72d4766dcbde41c3b2dfcbe7449",
+      "fileSize" : 1143
+    },
+    {
       "path" : "Country_Codes.csv",
       "mimeType" : "text/csv",
       "lastUpdated" : 1648317929,
@@ -255,9 +276,9 @@
     {
       "path" : "credit_score_default.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649794083,
-      "checksum" : "c9377b8b861bcaef896bdf056c718302",
-      "fileSize" : 16341
+      "lastUpdated" : 1649794205,
+      "checksum" : "e965c9bef374388d26d2994ecc3d2938",
+      "fileSize" : 16364
     },
     {
       "path" : ".git/objects/20/aa6646b81b149bd959e4459634ec53fb0b9f77",
@@ -349,6 +370,13 @@
       "lastUpdated" : 1649792474,
       "checksum" : "52d7e4e7ac158bd30593c422b5439172",
       "fileSize" : 64663
+    },
+    {
+      "path" : "script1.sql",
+      "mimeType" : "application/sql",
+      "lastUpdated" : 1649794490,
+      "checksum" : "06abca09ebb1ca5995b103be0e6e108e",
+      "fileSize" : 2597
     },
     {
       "path" : ".git/objects/b4/08bbaa6063e73b5cd03cd0a9be7b52a8f3899d",
@@ -498,6 +526,13 @@
       "fileSize" : 114139
     },
     {
+      "path" : "script3.sql",
+      "mimeType" : "application/sql",
+      "lastUpdated" : 1649794780,
+      "checksum" : "f6d987b3876faa90f7d906d1aea4d04e",
+      "fileSize" : 1131
+    },
+    {
       "path" : ".git/objects/57/f53def069ba52ce26a8538e87b4b0433f1ed23",
       "mimeType" : "application/octet-stream",
       "lastUpdated" : 1649793053,
@@ -636,6 +671,13 @@
       "lastUpdated" : 1649765650,
       "checksum" : "a9cfd1cd5837e6f8bed9f9c72da17532",
       "fileSize" : 5600
+    },
+    {
+      "path" : "script5.sql",
+      "mimeType" : "application/sql",
+      "lastUpdated" : 1649795097,
+      "checksum" : "f0d71352c6296dfe1710756df1e13f04",
+      "fileSize" : 757
     },
     {
       "path" : ".git/logs/refs/remotes/origin/master",
