@@ -36,6 +36,13 @@
       "fileSize" : 28435
     },
     {
+      "path" : "etl.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649785086,
+      "checksum" : "d41d8cd98f00b204e9800998ecf8427e",
+      "fileSize" : 0
+    },
+    {
       "path" : "Резюме.markdown",
       "mimeType" : "text/markdown",
       "lastUpdated" : 1635853356,
@@ -52,9 +59,9 @@
     {
       "path" : "index.html",
       "mimeType" : "text/html",
-      "lastUpdated" : 1649784611,
-      "checksum" : "c7eb2b2373c56d34bed64c91233f1bdb",
-      "fileSize" : 24889
+      "lastUpdated" : 1649785067,
+      "checksum" : "7434ef30f41927fe59470664c135a2c9",
+      "fileSize" : 29039
     }
   ]
 }
