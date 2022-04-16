@@ -12,6 +12,8 @@ List of projects:
 
 - Credit Default Scoring (Hypothesis Testing)
 
+- Spread Widening prediction
+
 - SQL scripts collection
 
 ### NYSE data Dashboard
@@ -24,7 +26,7 @@ Within this work I've  done some basic exploratory data analysis, the main purpo
 
 ### ETL pipeline
 
-This is not a full-scale work. Via this script I would like to demonstrate the fact that I have an experience of working with databases, in order to make this working I've created a locally running database, which can be accessed remotely (when I start a ngrok tunnel on my local machine). I've also wanted to show that I'm able to load any given table into a relational database.
+[This](https://github.com/yukontaf/projects/blob/master/etl.ipynb) is not a full-scale work. Via this script I would like to demonstrate the fact that I have an experience of working with databases, in order to make this working I've created a locally running database, which can be accessed remotely (when I start a ngrok tunnel on my local machine). I've also wanted to show that I'm able to load any given table into a relational database.
 
 ### Cohort Analysis and Dataviz
 
@@ -33,6 +35,10 @@ This is not a full-scale work. Via this script I would like to demonstrate the f
 ### Credit Default Scoring (Hypothesis Testing)
 
 In [this](https://github.com/yukontaf/projects/blob/master/credit_score_default.ipynb) script written in R, I've done some exploratory data analysis and tested hypothesis concerning default, i.e. how does presence in certain social category (sex, marriage, education level) impact the returning of credit, and also answered the question if the mean credit limit differs for default and non-default groups.
+
+### Spread Widening Prediction
+
+In a [first](https://github.com/yukontaf/projects/blob/master/orderbook.ipynb) script I've implemented a simple animated order book (much of the code is redundant, watch the result in the end of the file). In a [second](https://github.com/yukontaf/projects/blob/master/tz8kn98d.ipynb) – tried to build a model which would predict if the spread becomes wider or not. In ordere to do so, i needed to deal with extremely imbalanced dataset.
 
 
 
