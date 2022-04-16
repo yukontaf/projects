@@ -40,12 +40,11 @@ In [this](https://github.com/yukontaf/projects/blob/master/credit_score_default.
 
 In a [first](https://github.com/yukontaf/projects/blob/master/orderbook.ipynb) script I've implemented a simple animated order book (much of the code is redundant, watch the result in the end of the file). In a [second](https://github.com/yukontaf/projects/blob/master/tz8kn98d.ipynb) – tried to build a model which would predict if the spread becomes wider or not. In ordere to do so, i needed to deal with extremely imbalanced dataset.
 
-
-
-
 ### SQL scripts
 
 Here are some SQL scripts, written by me.
+
+- [Basic SQL](https://github.com/yukontaf/projects/blob/master/basic_sql.ipynb)
 
 - [Script 1](https://github.com/yukontaf/projects/blob/master/script1.sql)
 
@@ -57,4 +56,4 @@ Here are some SQL scripts, written by me.
 
 - [Script 5](https://github.com/yukontaf/projects/blob/master/script5.sql)
 
-- And [here](https://github.com/yukontaf/projects/blob/master/tables.ipynb) is a notebook where you can see the tables to which these queries are made.
+- And [here](https://github.com/yukontaf/projects/blob/master/tables.ipynb) is a notebook where you can see the tables to which these queries are made (except for the first)

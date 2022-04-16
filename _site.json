@@ -1,221 +1,11 @@
 {
   "items" : [
     {
-      "path" : ".git/COMMIT_EDITMSG",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793053,
-      "checksum" : "8d7406ac3a6b59a34a18e6a7411b6a96",
-      "fileSize" : 12
-    },
-    {
-      "path" : ".git/description",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "a0a7c3fff21f2aea3cfa1d0316dd816c",
-      "fileSize" : 73
-    },
-    {
-      "path" : "orderbook.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649799315,
-      "checksum" : "bd42b1ad2f5b46823c5d6b508770a200",
-      "fileSize" : 27059
-    },
-    {
-      "path" : "tz8kn98d.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649799416,
-      "checksum" : "10c5e1d13fbfdbfba8274a26058362c8",
-      "fileSize" : 41195
-    },
-    {
-      "path" : "cohort_analysis.html",
-      "mimeType" : "text/html",
-      "lastUpdated" : 1649793413,
-      "checksum" : "c6ed38b949e9d8c1421d6722c676dc1f",
-      "fileSize" : 523
-    },
-    {
-      "path" : "rec.plk",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649786218,
-      "checksum" : "f20884219d4bf78d0cbba16282f214fa",
-      "fileSize" : 49250
-    },
-    {
-      "path" : ".git/hooks/pre-applypatch.sample",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "054f9ffb8bfe04a599751cc757226dda",
-      "fileSize" : 424
-    },
-    {
-      "path" : ".git/objects/cf/4822fcb6293c280d6234597a78b3d1f351aa34",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789835,
-      "checksum" : "0e18a510401ee0a7259b3582ae0a8130",
-      "fileSize" : 8321
-    },
-    {
-      "path" : "index.md",
-      "mimeType" : "text/markdown",
-      "lastUpdated" : 1649802618,
-      "checksum" : "5369cf6a91c4ba5599401974c18c3916",
-      "fileSize" : 3595
-    },
-    {
-      "path" : ".git/hooks/pre-commit.sample",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "305eadbbcd6f6d2567e033ad12aabbc4",
-      "fileSize" : 1643
-    },
-    {
-      "path" : ".git/refs/remotes/origin/master",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793056,
-      "checksum" : "c651a815d3e477f36fcb550052161b85",
-      "fileSize" : 41
-    },
-    {
-      "path" : "cohort-analysis.html",
-      "mimeType" : "text/html",
-      "lastUpdated" : 1649793399,
-      "checksum" : "be0a57495bc9097e633c92326fbd2741",
-      "fileSize" : 509
-    },
-    {
-      "path" : ".git/hooks/prepare-commit-msg.sample",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "2b5c047bdb474555e1787db32b2d2fc5",
-      "fileSize" : 1492
-    },
-    {
-      "path" : "Case6.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649781930,
-      "checksum" : "b7c4d38093027c662ce5a0c8c9ab92aa",
-      "fileSize" : 1156928
-    },
-    {
-      "path" : ".git/logs/refs/heads/master",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793053,
-      "checksum" : "4bb22e61bc83dbb86c8b1a782dc4801c",
-      "fileSize" : 1068
-    },
-    {
-      "path" : ".git/hooks/pre-rebase.sample",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "56e45f2bcbc8226d2b4200f7c46371bf",
-      "fileSize" : 4898
-    },
-    {
-      "path" : "script2.sql",
-      "mimeType" : "application/sql",
-      "lastUpdated" : 1649795897,
-      "checksum" : "d5f098da85cae2ddc91dde98bd90bee3",
-      "fileSize" : 1801
-    },
-    {
-      "path" : ".git/objects/cc/231f0676461d7a17bc2360746a631a23d39839",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649785014,
-      "checksum" : "5ae68429a8ba829f8043d1fb5deadba8",
-      "fileSize" : 302
-    },
-    {
-      "path" : ".git/objects/02/81b0281c02996d392a29ffc1cc4340a9a2b80c",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649785014,
-      "checksum" : "ffacbddcc19682e08b0c4b40b6452dc0",
-      "fileSize" : 558
-    },
-    {
-      "path" : ".git/objects/72/7ee8078b44c7e4a2fc145ca0c37a7c2ea77049",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784942,
-      "checksum" : "48fe563b091fe74a7b2319b9f3d22d9f",
-      "fileSize" : 8124
-    },
-    {
-      "path" : ".git/objects/c2/e15018b8b1c6ff91d381066e8396443b845c53",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789835,
-      "checksum" : "6d0e7b4dada1030eef1b269a3aabe492",
-      "fileSize" : 458
-    },
-    {
-      "path" : ".git/objects/b2/97c169ff3fc3115dfb46564585ded3ec5eef30",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784438,
-      "checksum" : "3f9963960425b981e34af48c6ec67f18",
-      "fileSize" : 396
-    },
-    {
-      "path" : ".git/hooks/post-update.sample",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "2b7ea5cee3c49ff53d41e00785eb974c",
-      "fileSize" : 189
-    },
-    {
-      "path" : ".git/objects/02/35a40e5fc4aeaedccaafb7833604a22af50c8c",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793053,
-      "checksum" : "ce9aa93f9e2f12b3dbac2cbd0d707575",
-      "fileSize" : 16553
-    },
-    {
-      "path" : "API_ST.INT.RCPT.CD_DS2_en_csv_v2_1351575.csv",
-      "mimeType" : "text/csv",
-      "lastUpdated" : 1648317929,
-      "checksum" : "ff44a294f45501a1fca98d114bdc489f",
-      "fileSize" : 128279
-    },
-    {
-      "path" : "long.plk",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649786218,
-      "checksum" : "bb488dcb8192cdfca7c1ab239b1c111f",
-      "fileSize" : 216008
-    },
-    {
-      "path" : ".ipynb_checkpoints/070322_0E43-checkpoint.Rmd",
-      "mimeType" : "text/markdown",
-      "lastUpdated" : 1649765650,
-      "checksum" : "a9cfd1cd5837e6f8bed9f9c72da17532",
-      "fileSize" : 5600
-    },
-    {
-      "path" : ".git/hooks/update.sample",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "647ae13c682f7827c22f5fc08a03674e",
-      "fileSize" : 3650
-    },
-    {
-      "path" : ".git/objects/e8/18d13f482a79208992c91e5ec10659bdd89282",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784942,
-      "checksum" : "91f1059333843abfda2880eaf8b70697",
-      "fileSize" : 337
-    },
-    {
-      "path" : ".git/objects/e0/7fd178c5073a46823dc7900e2b852051af154f",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649785014,
-      "checksum" : "63831b95170cb2a23a7e5556219d3417",
-      "fileSize" : 178
-    },
-    {
-      "path" : ".git/objects/f2/a516a28d85307811cf84e33eb5fa158a06a50b",
+      "path" : ".git/objects/6d/912b0f22f2c7f1d915eec434db4869ca90ad2f",
       "mimeType" : "application/octet-stream",
       "lastUpdated" : 1649783712,
-      "checksum" : "34d8ca1ed911f766538f83760221caf1",
-      "fileSize" : 432821
+      "checksum" : "e9fd595d9be8c11adc576fa5f5154823",
+      "fileSize" : 9677
     },
     {
       "path" : "API_ST.INT.ARVL_DS2_en_csv_v2_1345483.csv",
@@ -225,221 +15,32 @@
       "fileSize" : 114139
     },
     {
-      "path" : ".git/objects/0a/23442f4e16f80cd453426c8383245dcf0e5700",
+      "path" : ".git/objects/73/25a248f3da2f2972a4f08c077c27bb1b19ecc6",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783712,
-      "checksum" : "3bbe9c54d97ddd3cdbf0ea22d627f9f4",
-      "fileSize" : 537
+      "lastUpdated" : 1650145763,
+      "checksum" : "3c45f497ad2f3ba738eae7653c174abb",
+      "fileSize" : 8797
     },
     {
-      "path" : ".git/objects/56/c4fd490bdcab95622f98fd68021012e6a86f4a",
+      "path" : ".git/index",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789836,
-      "checksum" : "e6be8d472a3c7693d1e6aa0b9e9b7e22",
-      "fileSize" : 183
+      "lastUpdated" : 1650145763,
+      "checksum" : "f32ddbb753c654b0b3d0a6d839a77857",
+      "fileSize" : 3723
     },
     {
-      "path" : ".git/objects/9f/f59ce87371b538802d45af3ade15f3ae4778a5",
+      "path" : "rec.plk",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789835,
-      "checksum" : "29a4b229c8480da6c74f4af833cf386c",
-      "fileSize" : 30530
+      "lastUpdated" : 1649786218,
+      "checksum" : "f20884219d4bf78d0cbba16282f214fa",
+      "fileSize" : 49250
     },
     {
-      "path" : ".git/hooks/pre-push.sample",
+      "path" : "basic_sql.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "2c642152299a94e05ea26eae11993b13",
-      "fileSize" : 1374
-    },
-    {
-      "path" : ".ipynb_checkpoints/etl-checkpoint.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649786988,
-      "checksum" : "8fba55e4ae5ad9a553c443b10be1467c",
-      "fileSize" : 15595
-    },
-    {
-      "path" : "script4.sql",
-      "mimeType" : "application/sql",
-      "lastUpdated" : 1649795005,
-      "checksum" : "ee1fc72d4766dcbde41c3b2dfcbe7449",
-      "fileSize" : 1143
-    },
-    {
-      "path" : "Country_Codes.csv",
-      "mimeType" : "text/csv",
-      "lastUpdated" : 1648317929,
-      "checksum" : "dec52740dcd492fa29335a53063938e5",
-      "fileSize" : 6261
-    },
-    {
-      "path" : ".git/objects/f6/38398d129d344291b4e6b942f3a4c3a92eac00",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784438,
-      "checksum" : "9f94c2f70f53fdb87c636306a9758bc8",
-      "fileSize" : 670
-    },
-    {
-      "path" : ".git/objects/4f/07e3956604f90b65f4644e2556fdbc86c1ca1f",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789836,
-      "checksum" : "6bed70164ae99fcb80e3f903466c4bb7",
-      "fileSize" : 705
-    },
-    {
-      "path" : "credit_score_default.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649794205,
-      "checksum" : "e965c9bef374388d26d2994ecc3d2938",
-      "fileSize" : 16364
-    },
-    {
-      "path" : ".git/objects/20/aa6646b81b149bd959e4459634ec53fb0b9f77",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784438,
-      "checksum" : "7642aafc0ebdf3d1b42682d6e1a5094c",
-      "fileSize" : 449131
-    },
-    {
-      "path" : "churn-analysis.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784841,
-      "checksum" : "cb3dcd1f600beeb888e54cce9a697d16",
-      "fileSize" : 1349623
-    },
-    {
-      "path" : ".git/objects/9e/6fa09ebb19500c53eb2beed09c5f32fa4c9d02",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789835,
-      "checksum" : "2c9e1763a1827f2018d052cfbb0e1ec9",
-      "fileSize" : 4274
-    },
-    {
-      "path" : ".git/objects/2f/c49e8481c86bbc1fde9122c9bf9a9380091240",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789836,
-      "checksum" : "53390551560198065eb7eaab9faa36f5",
-      "fileSize" : 203
-    },
-    {
-      "path" : ".git/objects/c6/1dfa4340d059dc21457bf5d739a40543522400",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789835,
-      "checksum" : "79143d5f7c85f8f3d772e1234bacebca",
-      "fileSize" : 30289
-    },
-    {
-      "path" : ".git/objects/95/30aea7156ae48364be4bed0e6a38fab289b5cf",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783724,
-      "checksum" : "e6ced983690ed6b882009c0ab7e7f15e",
-      "fileSize" : 151
-    },
-    {
-      "path" : ".git/objects/7b/a1f0ef7a1db21a0b5b5009f3dda31abc388747",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784942,
-      "checksum" : "f6543c3327f889bfb55b63b8efe519ff",
-      "fileSize" : 182
-    },
-    {
-      "path" : ".git/objects/13/0b5b6814ea7ad6f2867f05c6a14efc3bb20fd4",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793053,
-      "checksum" : "d3e6fb4607eb6afcbae3751c0139f0f9",
-      "fileSize" : 16725
-    },
-    {
-      "path" : ".git/objects/04/2143e068e4afa028b54edef78952047b1a5270",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784942,
-      "checksum" : "973b9183b5dbd2e2d0c6d2892271275f",
-      "fileSize" : 982
-    },
-    {
-      "path" : ".git/hooks/pre-receive.sample",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "2ad18ec82c20af7b5926ed9cea6aeedd",
-      "fileSize" : 544
-    },
-    {
-      "path" : ".git/objects/44/496785ceb32511defd53e8a6fd20000e4a4904",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789835,
-      "checksum" : "6033de627c7647ecdc3f81a619c7e490",
-      "fileSize" : 2219
-    },
-    {
-      "path" : ".git/objects/ce/320b207522a04b29cf590f03880d3c0cf38c26",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783712,
-      "checksum" : "6fce10a93af07b82b24e958bafb2d306",
-      "fileSize" : 946717
-    },
-    {
-      "path" : ".ipynb_checkpoints/credit_score_default-checkpoint.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649792474,
-      "checksum" : "52d7e4e7ac158bd30593c422b5439172",
-      "fileSize" : 64663
-    },
-    {
-      "path" : "script1.sql",
-      "mimeType" : "application/sql",
-      "lastUpdated" : 1649795620,
-      "checksum" : "72b4d04cdd723f21d9823c165470edd3",
-      "fileSize" : 2597
-    },
-    {
-      "path" : ".git/objects/b4/08bbaa6063e73b5cd03cd0a9be7b52a8f3899d",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783712,
-      "checksum" : "9c0ac7a53e009024b40bcfe37bbbfc6a",
-      "fileSize" : 929
-    },
-    {
-      "path" : ".git/hooks/pre-merge-commit.sample",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "39cb268e2a85d436b9eb6f47614c3cbc",
-      "fileSize" : 416
-    },
-    {
-      "path" : "tables.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649798869,
-      "checksum" : "ab08d9d0497e072b4766f1d39d9ec8df",
-      "fileSize" : 34102
-    },
-    {
-      "path" : ".git/objects/a6/7324195e00ecb79c42a475a526e6ec23314820",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789835,
-      "checksum" : "9c0a11200a117333e8997bc86e2b2997",
-      "fileSize" : 63173
-    },
-    {
-      "path" : ".git/objects/36/3fcab7ed6e9634e198cf5555ceb88932c9a245",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789835,
-      "checksum" : "50661fa5b58f4116814c58a383d1498c",
-      "fileSize" : 71
-    },
-    {
-      "path" : ".git/.DS_Store",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649786092,
-      "checksum" : "f1892ee9c48d6f92b795fbebed539914",
-      "fileSize" : 6148
-    },
-    {
-      "path" : ".git/objects/9a/a4352903737f47fbfb62f1be8be57f5c6e8236",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783712,
-      "checksum" : "4066dbde126a7a299137204c01c8b847",
-      "fileSize" : 8091
+      "lastUpdated" : 1650146180,
+      "checksum" : "2d83605c990236b8dc1001e637e984b3",
+      "fileSize" : 72450
     },
     {
       "path" : ".git/objects/6f/ca6ec89d95a1288f13b29776ab9db35b07e0d5",
@@ -449,111 +50,6 @@
       "fileSize" : 582
     },
     {
-      "path" : ".git/objects/29/fd2a87ec3d1105189ad6a1e071ba398e05a75c",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793053,
-      "checksum" : "f3eed36ca6dd5d00223eed8ee4b6b36d",
-      "fileSize" : 180
-    },
-    {
-      "path" : "resume.html",
-      "mimeType" : "text/html",
-      "lastUpdated" : 1647210233,
-      "checksum" : "a6da5ab6e6c0a0582e6708589ce4905f",
-      "fileSize" : 28435
-    },
-    {
-      "path" : ".git/objects/36/0dce3f84af29181c97631a64931895b9332b3d",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783724,
-      "checksum" : "53c14840c209923f85cc1494bd7ef44d",
-      "fileSize" : 296
-    },
-    {
-      "path" : ".git/objects/f1/730e63bbb8eb819afd449e324307cca5615e5e",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789835,
-      "checksum" : "d3e1761a925f717f1863fd4bcc0c2641",
-      "fileSize" : 7546
-    },
-    {
-      "path" : "index.html",
-      "mimeType" : "text/html",
-      "lastUpdated" : 1649802634,
-      "checksum" : "52179407e670bb19d8c208da19505df6",
-      "fileSize" : 27063
-    },
-    {
-      "path" : ".git/config",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784377,
-      "checksum" : "6207d9c124fc586ee2e9a39a7cddf289",
-      "fileSize" : 449
-    },
-    {
-      "path" : "_site.json",
-      "mimeType" : "application/json",
-      "lastUpdated" : 1649793354,
-      "checksum" : "e530fe6b1897fe98864fa1a14446f4c8",
-      "fileSize" : 21722
-    },
-    {
-      "path" : ".git/hooks/push-to-checkout.sample",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "c7ab00c7784efeadad3ae9b228d4b4db",
-      "fileSize" : 2783
-    },
-    {
-      "path" : ".git/index",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793053,
-      "checksum" : "6571f53c0633a56dbb2ddc601fe5b25a",
-      "fileSize" : 2061
-    },
-    {
-      "path" : ".git/objects/d1/7fe85065771f48b668815c66f2fc527118a2fb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789835,
-      "checksum" : "25789c4fa310cbd02cb4809eea9cb2c6",
-      "fileSize" : 594
-    },
-    {
-      "path" : "churn-analysis.html",
-      "mimeType" : "text/html",
-      "lastUpdated" : 1649793400,
-      "checksum" : "32b55ba6cd6b5af074ddf200941a8477",
-      "fileSize" : 509
-    },
-    {
-      "path" : ".git/objects/eb/c90814b30aa74074d125e888e3ce71a1c49630",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649789835,
-      "checksum" : "19eb5cc371cee8aa1b36f5ff4a0279fd",
-      "fileSize" : 24351
-    },
-    {
-      "path" : ".git/refs/heads/master",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793053,
-      "checksum" : "c651a815d3e477f36fcb550052161b85",
-      "fileSize" : 41
-    },
-    {
-      "path" : ".git/hooks/fsmonitor-watchman.sample",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "ea587b0fae70333bce92257152996e70",
-      "fileSize" : 4655
-    },
-    {
-      "path" : ".ipynb_checkpoints/API_ST.INT.ARVL_DS2_en_csv_v2_1345483-checkpoint.csv",
-      "mimeType" : "text/csv",
-      "lastUpdated" : 1648317929,
-      "checksum" : "8c0baed07603b0956987c900fd3476db",
-      "fileSize" : 114139
-    },
-    {
       "path" : "script3.sql",
       "mimeType" : "application/sql",
       "lastUpdated" : 1649796004,
@@ -561,116 +57,32 @@
       "fileSize" : 1131
     },
     {
-      "path" : ".git/objects/57/f53def069ba52ce26a8538e87b4b0433f1ed23",
+      "path" : ".git/objects/2b/847a8bd1ff0fb2b5930644bdadf7ddd7613db2",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793053,
-      "checksum" : "5a29db767673b7d7b6fb5857d8193d2a",
-      "fileSize" : 215
+      "lastUpdated" : 1649794157,
+      "checksum" : "4a92c1e839ddb5e40396a2f18335e7b4",
+      "fileSize" : 349
     },
     {
-      "path" : ".git/objects/6d/912b0f22f2c7f1d915eec434db4869ca90ad2f",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783712,
-      "checksum" : "e9fd595d9be8c11adc576fa5f5154823",
-      "fileSize" : 9677
-    },
-    {
-      "path" : ".git/ORIG_HEAD",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649785017,
-      "checksum" : "8fb0306ad834e918924f18504e535b76",
-      "fileSize" : 41
-    },
-    {
-      "path" : ".git/objects/0f/2792be0d056459574bc4a27ebdf7d665ddd585",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784942,
-      "checksum" : "200d6926d539a2888b9ccff7a829d78a",
-      "fileSize" : 363
-    },
-    {
-      "path" : ".git/logs/HEAD",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793053,
-      "checksum" : "4bb22e61bc83dbb86c8b1a782dc4801c",
-      "fileSize" : 1068
-    },
-    {
-      "path" : ".git/objects/03/f47d215aeae56d2409a461b4f937f6c881bec6",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783712,
-      "checksum" : "159d77492c0705719d67d3a12a8815c6",
-      "fileSize" : 2301
-    },
-    {
-      "path" : "etl.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649787442,
-      "checksum" : "8fba55e4ae5ad9a553c443b10be1467c",
-      "fileSize" : 15595
-    },
-    {
-      "path" : ".git/objects/8e/fd0472879debb009bb7669a69f352e2f32442b",
+      "path" : ".git/objects/cc/231f0676461d7a17bc2360746a631a23d39839",
       "mimeType" : "application/octet-stream",
       "lastUpdated" : 1649785014,
-      "checksum" : "065b3aeb587208b5da56b24324599d6b",
-      "fileSize" : 449093
+      "checksum" : "5ae68429a8ba829f8043d1fb5deadba8",
+      "fileSize" : 302
     },
     {
-      "path" : "arr.plk",
+      "path" : ".git/objects/c6/1dfa4340d059dc21457bf5d739a40543522400",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649786218,
-      "checksum" : "5e3570093a0d4878be459886b4648ea7",
-      "fileSize" : 49250
+      "lastUpdated" : 1649789835,
+      "checksum" : "79143d5f7c85f8f3d772e1234bacebca",
+      "fileSize" : 30289
     },
     {
-      "path" : ".git/hooks/commit-msg.sample",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "579a3c1e12a1e74a98169175fb913012",
-      "fileSize" : 896
-    },
-    {
-      "path" : ".git/objects/2c/98881698df570bda8f641e92945db989b13bc9",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793053,
-      "checksum" : "068f8b9d073f3448640f3132e1536e63",
-      "fileSize" : 714
-    },
-    {
-      "path" : "Резюме.markdown",
-      "mimeType" : "text/markdown",
-      "lastUpdated" : 1635853356,
-      "checksum" : "f7aa8e3c23977cbf990acb3ed4473759",
-      "fileSize" : 5223
-    },
-    {
-      "path" : ".git/objects/02/3cb74d3b53d074213162bc7332942d1311f939",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784438,
-      "checksum" : "48ff17ab75080c4451b88216da83916b",
-      "fileSize" : 183
-    },
-    {
-      "path" : ".git/FETCH_HEAD",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793057,
-      "checksum" : "5342d687d227bad489c1458dcd82edd7",
-      "fileSize" : 98
-    },
-    {
-      "path" : ".git/objects/50/08ddfcf53c02e82d7eee2e57c38e5672ef89f6",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783712,
-      "checksum" : "d18c553584a7393b594e374cfe29b727",
-      "fileSize" : 255
-    },
-    {
-      "path" : ".DS_Store",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649786092,
-      "checksum" : "78b905004dfb6ee0145cc62d2ce54f9e",
-      "fileSize" : 6148
+      "path" : "index.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1650145915,
+      "checksum" : "1874993f8d3a50d44c64e769a395cbc1",
+      "fileSize" : 27191
     },
     {
       "path" : "Metadata.csv",
@@ -680,25 +92,18 @@
       "fileSize" : 31101
     },
     {
-      "path" : ".git/HEAD",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "4cf2d64e44205fe628ddd534e1151b58",
-      "fileSize" : 23
+      "path" : ".idea/modules.xml",
+      "mimeType" : "application/xml",
+      "lastUpdated" : 1650132010,
+      "checksum" : "324a55c800ae17c435c9210eecf05e04",
+      "fileSize" : 268
     },
     {
-      "path" : ".git/info/exclude",
+      "path" : ".git/objects/e8/18d13f482a79208992c91e5ec10659bdd89282",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649783700,
-      "checksum" : "036208b4a1ab4a235d75c181e685e5a3",
-      "fileSize" : 240
-    },
-    {
-      "path" : "070322_0E43.Rmd",
-      "mimeType" : "text/markdown",
-      "lastUpdated" : 1649765650,
-      "checksum" : "a9cfd1cd5837e6f8bed9f9c72da17532",
-      "fileSize" : 5600
+      "lastUpdated" : 1649784942,
+      "checksum" : "91f1059333843abfda2880eaf8b70697",
+      "fileSize" : 337
     },
     {
       "path" : "script5.sql",
@@ -708,25 +113,228 @@
       "fileSize" : 757
     },
     {
-      "path" : ".git/logs/refs/remotes/origin/master",
+      "path" : ".git/objects/ce/320b207522a04b29cf590f03880d3c0cf38c26",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649793056,
-      "checksum" : "832a0375ed0badd18f4d6b8be3ecc1ab",
-      "fileSize" : 1032
+      "lastUpdated" : 1649783712,
+      "checksum" : "6fce10a93af07b82b24e958bafb2d306",
+      "fileSize" : 946717
     },
     {
-      "path" : ".git/hooks/applypatch-msg.sample",
+      "path" : ".git/hooks/pre-receive.sample",
       "mimeType" : "application/octet-stream",
       "lastUpdated" : 1649783700,
-      "checksum" : "ce562e08d8098926a3862fc6e7905199",
-      "fileSize" : 478
+      "checksum" : "2ad18ec82c20af7b5926ed9cea6aeedd",
+      "fileSize" : 544
     },
     {
-      "path" : ".git/objects/9d/929c61cf0d019f06af8f0c93c4a3ad84bc94c9",
+      "path" : ".git/hooks/update.sample",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784438,
-      "checksum" : "72c433513d43d3b74013f27e1f1ea6b1",
-      "fileSize" : 833426
+      "lastUpdated" : 1649783700,
+      "checksum" : "647ae13c682f7827c22f5fc08a03674e",
+      "fileSize" : 3650
+    },
+    {
+      "path" : ".git/objects/f9/978e66e707970893adfa192dda65a2b84223c4",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "78dd0f174ca565cbaf79465d7e3c8259",
+      "fileSize" : 1554
+    },
+    {
+      "path" : ".git/objects/0d/606eb0b68807bca4ce0d16117c02363dfcf964",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798857,
+      "checksum" : "507f7ba2f5ba41300954e4a3511815c6",
+      "fileSize" : 247
+    },
+    {
+      "path" : ".git/objects/bd/f3e505b7b94830245dd72f6469ae8250d4a06f",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649799764,
+      "checksum" : "a7527305897fc9af1cf3928b6502e481",
+      "fileSize" : 1339
+    },
+    {
+      "path" : ".git/objects/9e/6fa09ebb19500c53eb2beed09c5f32fa4c9d02",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649789835,
+      "checksum" : "2c9e1763a1827f2018d052cfbb0e1ec9",
+      "fileSize" : 4274
+    },
+    {
+      "path" : ".ipynb_checkpoints/070322_0E43-checkpoint.Rmd",
+      "mimeType" : "text/markdown",
+      "lastUpdated" : 1649765650,
+      "checksum" : "a9cfd1cd5837e6f8bed9f9c72da17532",
+      "fileSize" : 5600
+    },
+    {
+      "path" : "chinook_scheme.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1650139278,
+      "checksum" : "3b957f8d7ef7a84a7b4f08e18e329acf",
+      "fileSize" : 214032
+    },
+    {
+      "path" : ".git/objects/02/81b0281c02996d392a29ffc1cc4340a9a2b80c",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649785014,
+      "checksum" : "ffacbddcc19682e08b0c4b40b6452dc0",
+      "fileSize" : 558
+    },
+    {
+      "path" : ".git/objects/36/3fcab7ed6e9634e198cf5555ceb88932c9a245",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798857,
+      "checksum" : "50661fa5b58f4116814c58a383d1498c",
+      "fileSize" : 71
+    },
+    {
+      "path" : "resume.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1647210233,
+      "checksum" : "a6da5ab6e6c0a0582e6708589ce4905f",
+      "fileSize" : 28435
+    },
+    {
+      "path" : ".git/objects/c6/a9241e3eb376883f1c931e9bc68f3b19f24e85",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798857,
+      "checksum" : "4c185d8af648259f987d6f340608158d",
+      "fileSize" : 176
+    },
+    {
+      "path" : ".git/objects/61/80704b89d4efce06719033b6e9769a6dc7f35e",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649795311,
+      "checksum" : "088139959286860bb9f7b99fcd6d9692",
+      "fileSize" : 332
+    },
+    {
+      "path" : ".git/hooks/prepare-commit-msg.sample",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "2b5c047bdb474555e1787db32b2d2fc5",
+      "fileSize" : 1492
+    },
+    {
+      "path" : ".git/objects/29/fd2a87ec3d1105189ad6a1e071ba398e05a75c",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649793053,
+      "checksum" : "f3eed36ca6dd5d00223eed8ee4b6b36d",
+      "fileSize" : 180
+    },
+    {
+      "path" : ".git/objects/19/a97c32612035aad43c7d88c9359dbb34af9215",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649795311,
+      "checksum" : "645d6196dec6427f8d71e416c7211fdf",
+      "fileSize" : 183
+    },
+    {
+      "path" : "API_ST.INT.RCPT.CD_DS2_en_csv_v2_1351575.csv",
+      "mimeType" : "text/csv",
+      "lastUpdated" : 1648317929,
+      "checksum" : "ff44a294f45501a1fca98d114bdc489f",
+      "fileSize" : 128279
+    },
+    {
+      "path" : ".git/objects/cf/4822fcb6293c280d6234597a78b3d1f351aa34",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649789835,
+      "checksum" : "0e18a510401ee0a7259b3582ae0a8130",
+      "fileSize" : 8321
+    },
+    {
+      "path" : ".git/objects/57/f53def069ba52ce26a8538e87b4b0433f1ed23",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649793053,
+      "checksum" : "5a29db767673b7d7b6fb5857d8193d2a",
+      "fileSize" : 215
+    },
+    {
+      "path" : "cohort-analysis.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1649793399,
+      "checksum" : "be0a57495bc9097e633c92326fbd2741",
+      "fileSize" : 509
+    },
+    {
+      "path" : ".git/objects/41/b81b254e02020a9508fc23cc505ccc33035d45",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649799764,
+      "checksum" : "086eb57a961c4f3ff165bb78adcd9a0f",
+      "fileSize" : 8551
+    },
+    {
+      "path" : ".git/objects/.DS_Store",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145337,
+      "checksum" : "53f53681961057e23edb5709821a721a",
+      "fileSize" : 14340
+    },
+    {
+      "path" : ".git/objects/0b/a00c3cdaf472f794c4a15bcd91909fcf88650a",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "72c292a61f538067d70f7d5436313b6f",
+      "fileSize" : 169
+    },
+    {
+      "path" : ".git/HEAD",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "4cf2d64e44205fe628ddd534e1151b58",
+      "fileSize" : 23
+    },
+    {
+      "path" : ".git/hooks/pre-rebase.sample",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "56e45f2bcbc8226d2b4200f7c46371bf",
+      "fileSize" : 4898
+    },
+    {
+      "path" : ".git/hooks/pre-push.sample",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "2c642152299a94e05ea26eae11993b13",
+      "fileSize" : 1374
+    },
+    {
+      "path" : ".git/objects/8f/4a01588acd058dc7c33b19ee914a829626d629",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "75b6da454ca2f3b534db1945bb2f54c0",
+      "fileSize" : 183
+    },
+    {
+      "path" : ".git/refs/.DS_Store",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145337,
+      "checksum" : "381c58f3b43c2dc69d32f530f5a10a05",
+      "fileSize" : 6148
+    },
+    {
+      "path" : "070322_0E43.Rmd",
+      "mimeType" : "text/markdown",
+      "lastUpdated" : 1649765650,
+      "checksum" : "a9cfd1cd5837e6f8bed9f9c72da17532",
+      "fileSize" : 5600
+    },
+    {
+      "path" : ".git/objects/0f/2792be0d056459574bc4a27ebdf7d665ddd585",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649784942,
+      "checksum" : "200d6926d539a2888b9ccff7a829d78a",
+      "fileSize" : 363
+    },
+    {
+      "path" : ".git/objects/dd/0085955764f111d3c10c1517d97834a515fa6a",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "8ef8c0514ab744ebd1be0a4d4926aa7d",
+      "fileSize" : 5712
     },
     {
       "path" : ".git/objects/71/c55b2d1e901b58146cb93c86b7b7ba208561b6",
@@ -736,11 +344,858 @@
       "fileSize" : 3589
     },
     {
+      "path" : ".git/objects/e6/0e88b1ac105149cd9156c2ee28087cc9a382b9",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649799764,
+      "checksum" : "bb76f51ffb24e52bfa95c7cc5d8c0ad7",
+      "fileSize" : 10752
+    },
+    {
+      "path" : ".git/objects/36/e16750272844f2201cbffac373a7bca0b4d5e9",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649799764,
+      "checksum" : "bb1a710fb1f868df76de396961cafc58",
+      "fileSize" : 5710
+    },
+    {
+      "path" : ".git/objects/ca/97225102597a153f53a9ec6bce89ea090dabc6",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "8e3420a1af2632d7b3c3e986cfe8149a",
+      "fileSize" : 120791
+    },
+    {
+      "path" : ".git/objects/2e/64ab9c39baaa7cd35cb7157098850ff1b6615e",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798857,
+      "checksum" : "3f5384cdf59a3a6ca53642d991e44695",
+      "fileSize" : 6046
+    },
+    {
+      "path" : ".git/objects/6e/ca80a8bf2aaa8388f06e5d159d1049dd7f97c3",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "f09a0fd239700a6ab5e3bfd87d3f0780",
+      "fileSize" : 180
+    },
+    {
+      "path" : "Country_Codes.csv",
+      "mimeType" : "text/csv",
+      "lastUpdated" : 1648317929,
+      "checksum" : "dec52740dcd492fa29335a53063938e5",
+      "fileSize" : 6261
+    },
+    {
+      "path" : "churn-analysis.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1649793400,
+      "checksum" : "32b55ba6cd6b5af074ddf200941a8477",
+      "fileSize" : 509
+    },
+    {
+      "path" : "_site.json",
+      "mimeType" : "application/json",
+      "lastUpdated" : 1649802635,
+      "checksum" : "1d4069fae44cdc258a8a6981959e3b66",
+      "fileSize" : 23899
+    },
+    {
+      "path" : ".git/objects/9d/929c61cf0d019f06af8f0c93c4a3ad84bc94c9",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649784438,
+      "checksum" : "72c433513d43d3b74013f27e1f1ea6b1",
+      "fileSize" : 833426
+    },
+    {
+      "path" : "Case6.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649781930,
+      "checksum" : "b7c4d38093027c662ce5a0c8c9ab92aa",
+      "fileSize" : 1156928
+    },
+    {
+      "path" : ".git/COMMIT_EDITMSG",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "77d1f0b46b196c5a930777365a2e4cb7",
+      "fileSize" : 9
+    },
+    {
+      "path" : ".git/objects/94/0be50dfd3a0e4bcea1b4c38456b5be0c604139",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798781,
+      "checksum" : "288e6c9f80cd64aca1b940a479c6473f",
+      "fileSize" : 446
+    },
+    {
+      "path" : ".git/objects/36/0dce3f84af29181c97631a64931895b9332b3d",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783724,
+      "checksum" : "53c14840c209923f85cc1494bd7ef44d",
+      "fileSize" : 296
+    },
+    {
+      "path" : ".git/logs/HEAD",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "3a3241abf1ef512856c19433b9292928",
+      "fileSize" : 2121
+    },
+    {
+      "path" : ".git/objects/36/1bf999830b847879cc0b66e9e6459744a9c7b1",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649795311,
+      "checksum" : "f74c9253843c2a7af7d19f30028719d4",
+      "fileSize" : 978
+    },
+    {
+      "path" : ".git/objects/4f/07e3956604f90b65f4644e2556fdbc86c1ca1f",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649789836,
+      "checksum" : "6bed70164ae99fcb80e3f903466c4bb7",
+      "fileSize" : 705
+    },
+    {
+      "path" : ".git/objects/3c/b66d4a08c7db5f505c54e68823e43dc373840c",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649794157,
+      "checksum" : "cfb361b59747e3f9bbec567820f66b48",
+      "fileSize" : 337
+    },
+    {
       "path" : ".git/objects/2c/6296d223d4149b21623616b2b8bbaf085a7dbe",
       "mimeType" : "application/octet-stream",
       "lastUpdated" : 1649789835,
       "checksum" : "49d779d6613e1107da67ed820703e493",
       "fileSize" : 21635
+    },
+    {
+      "path" : ".git/objects/8e/fd0472879debb009bb7669a69f352e2f32442b",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649785014,
+      "checksum" : "065b3aeb587208b5da56b24324599d6b",
+      "fileSize" : 449093
+    },
+    {
+      "path" : ".git/objects/56/4be7a6642851eb0b5330c36a444c0d99df8607",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798781,
+      "checksum" : "2f53e8c3dc49c103ec58c3ad3bcf32a7",
+      "fileSize" : 5545
+    },
+    {
+      "path" : ".git/objects/fa/e6a665dd98cd304af93f9c67408cb0e2aa783e",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "ac349df609d8e4df2714759422bfbb27",
+      "fileSize" : 126
+    },
+    {
+      "path" : ".git/objects/20/cac8708b0bdcce05c003c3e1f94e79fd9c63bf",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649795311,
+      "checksum" : "16a725155992ab0e8c258a752e716098",
+      "fileSize" : 5537
+    },
+    {
+      "path" : ".git/objects/a6/7324195e00ecb79c42a475a526e6ec23314820",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649789835,
+      "checksum" : "9c0a11200a117333e8997bc86e2b2997",
+      "fileSize" : 63173
+    },
+    {
+      "path" : "basic_sql.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1650145541,
+      "checksum" : "6c1ab5915d389ad9521fe60969b6bc5c",
+      "fileSize" : 624372
+    },
+    {
+      "path" : ".git/objects/0c/9e193ffe12a7d689f0403213e26fc115da5196",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649794157,
+      "checksum" : "75dbf9fa59d196498abca2bb23997109",
+      "fileSize" : 5265
+    },
+    {
+      "path" : "arr.plk",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649786218,
+      "checksum" : "5e3570093a0d4878be459886b4648ea7",
+      "fileSize" : 49250
+    },
+    {
+      "path" : "credit_score_default.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649794205,
+      "checksum" : "e965c9bef374388d26d2994ecc3d2938",
+      "fileSize" : 16364
+    },
+    {
+      "path" : ".git/objects/7b/a1f0ef7a1db21a0b5b5009f3dda31abc388747",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649784942,
+      "checksum" : "f6543c3327f889bfb55b63b8efe519ff",
+      "fileSize" : 182
+    },
+    {
+      "path" : ".git/hooks/pre-commit.sample",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "305eadbbcd6f6d2567e033ad12aabbc4",
+      "fileSize" : 1643
+    },
+    {
+      "path" : "churn-analysis.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649784841,
+      "checksum" : "cb3dcd1f600beeb888e54cce9a697d16",
+      "fileSize" : 1349623
+    },
+    {
+      "path" : ".git/objects/76/25b81447b09839b6450f6965d71fade1c0226b",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649794157,
+      "checksum" : "829d85b71237b44226d0737de57d2d59",
+      "fileSize" : 8349
+    },
+    {
+      "path" : ".git/objects/c7/2eb05b0e916087b3d623e0f3a7d98fb854bf9d",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "3172487a488badb934288ba02a4bab0e",
+      "fileSize" : 1173
+    },
+    {
+      "path" : ".git/objects/59/ba69a88db3ed91efee6c0c917606d504894d0e",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649794157,
+      "checksum" : "25524767991218d21e3765dc8fdf6dae",
+      "fileSize" : 182
+    },
+    {
+      "path" : ".git/hooks/pre-applypatch.sample",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "054f9ffb8bfe04a599751cc757226dda",
+      "fileSize" : 424
+    },
+    {
+      "path" : ".git/hooks/pre-merge-commit.sample",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "39cb268e2a85d436b9eb6f47614c3cbc",
+      "fileSize" : 416
+    },
+    {
+      "path" : ".git/objects/66/ba67f75c01952c5a88aecb2d3446b6b5545e73",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649799764,
+      "checksum" : "79d15b4da4b40dc1ca98ff03b88e023d",
+      "fileSize" : 1044
+    },
+    {
+      "path" : ".git/objects/9c/c6a23e3cb6e48434b143ade85b5f7180186f02",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649795311,
+      "checksum" : "a0a7a3b6e9fe2faf7ce91fe13d9cd469",
+      "fileSize" : 439
+    },
+    {
+      "path" : ".git/objects/ae/f5c676bac0f588cdbc7f16be3e2863b099803a",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649795311,
+      "checksum" : "c77878becf4cdc6851dc9143a059c31e",
+      "fileSize" : 4507
+    },
+    {
+      "path" : ".git/objects/f9/a3011fd56d05d3fe9dd09922b366f0937ff32c",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "708310d353787c6e004be499c4994f6e",
+      "fileSize" : 11654
+    },
+    {
+      "path" : ".git/objects/c8/e4e94c035f855569576804dcec1656106af9c7",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798857,
+      "checksum" : "608693a13dd85d311adc15062787625c",
+      "fileSize" : 975
+    },
+    {
+      "path" : ".git/logs/refs/heads/master",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "3a3241abf1ef512856c19433b9292928",
+      "fileSize" : 2121
+    },
+    {
+      "path" : "cohort_analysis.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1649793413,
+      "checksum" : "c6ed38b949e9d8c1421d6722c676dc1f",
+      "fileSize" : 523
+    },
+    {
+      "path" : "script2.sql",
+      "mimeType" : "application/sql",
+      "lastUpdated" : 1649795897,
+      "checksum" : "d5f098da85cae2ddc91dde98bd90bee3",
+      "fileSize" : 1801
+    },
+    {
+      "path" : "long.plk",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649786218,
+      "checksum" : "bb488dcb8192cdfca7c1ab239b1c111f",
+      "fileSize" : 216008
+    },
+    {
+      "path" : ".ipynb_checkpoints/credit_score_default-checkpoint.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649792474,
+      "checksum" : "52d7e4e7ac158bd30593c422b5439172",
+      "fileSize" : 64663
+    },
+    {
+      "path" : ".git/hooks/applypatch-msg.sample",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "ce562e08d8098926a3862fc6e7905199",
+      "fileSize" : 478
+    },
+    {
+      "path" : ".git/objects/02/3cb74d3b53d074213162bc7332942d1311f939",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649784438,
+      "checksum" : "48ff17ab75080c4451b88216da83916b",
+      "fileSize" : 183
+    },
+    {
+      "path" : ".git/hooks/post-update.sample",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "2b7ea5cee3c49ff53d41e00785eb974c",
+      "fileSize" : 189
+    },
+    {
+      "path" : ".git/objects/b4/08bbaa6063e73b5cd03cd0a9be7b52a8f3899d",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783712,
+      "checksum" : "9c0ac7a53e009024b40bcfe37bbbfc6a",
+      "fileSize" : 929
+    },
+    {
+      "path" : ".git/hooks/fsmonitor-watchman.sample",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "ea587b0fae70333bce92257152996e70",
+      "fileSize" : 4655
+    },
+    {
+      "path" : ".git/hooks/commit-msg.sample",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "579a3c1e12a1e74a98169175fb913012",
+      "fileSize" : 896
+    },
+    {
+      "path" : ".git/objects/20/aa6646b81b149bd959e4459634ec53fb0b9f77",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649784438,
+      "checksum" : "7642aafc0ebdf3d1b42682d6e1a5094c",
+      "fileSize" : 449131
+    },
+    {
+      "path" : ".git/objects/fb/1cfcf4047f6915b94a8511b934ffa162313371",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649794157,
+      "checksum" : "ec4bc3312ae73cb9506c8bb3e54adca6",
+      "fileSize" : 801
+    },
+    {
+      "path" : ".git/objects/ce/4e9439b05ea6fee6d2ad48e273d1271ee5b1b6",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649794157,
+      "checksum" : "bdbaf9badc517f3fa609d86009f99d27",
+      "fileSize" : 336
+    },
+    {
+      "path" : "script4.sql",
+      "mimeType" : "application/sql",
+      "lastUpdated" : 1649795005,
+      "checksum" : "ee1fc72d4766dcbde41c3b2dfcbe7449",
+      "fileSize" : 1143
+    },
+    {
+      "path" : ".git/.DS_Store",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145723,
+      "checksum" : "ea508af921d0d88b6f82aad6007c02a1",
+      "fileSize" : 6148
+    },
+    {
+      "path" : ".git/objects/50/08ddfcf53c02e82d7eee2e57c38e5672ef89f6",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783712,
+      "checksum" : "d18c553584a7393b594e374cfe29b727",
+      "fileSize" : 255
+    },
+    {
+      "path" : ".git/objects/0a/23442f4e16f80cd453426c8383245dcf0e5700",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783712,
+      "checksum" : "3bbe9c54d97ddd3cdbf0ea22d627f9f4",
+      "fileSize" : 537
+    },
+    {
+      "path" : ".git/objects/f1/730e63bbb8eb819afd449e324307cca5615e5e",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649789835,
+      "checksum" : "d3e1761a925f717f1863fd4bcc0c2641",
+      "fileSize" : 7546
+    },
+    {
+      "path" : ".git/objects/f3/aca267c66ed2a4ac3966c8d2f03efce97773a9",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649795311,
+      "checksum" : "e060133e5ab161f9ff0e9fb8efa181f0",
+      "fileSize" : 446
+    },
+    {
+      "path" : ".git/objects/3b/a0f2213da2404c30da1212d63f54ce104636ab",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "24c8af0644aaf62f5a95efb72de5fd9b",
+      "fileSize" : 500
+    },
+    {
+      "path" : ".git/objects/37/0e7ebfba313a25a42387dfc23b023a8cb0ea48",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "0599bb43e25f7d0ce6d154fef05e3256",
+      "fileSize" : 11275
+    },
+    {
+      "path" : ".DS_Store",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145723,
+      "checksum" : "6903e05231a62c2bae5f0d876d80bd4f",
+      "fileSize" : 6148
+    },
+    {
+      "path" : ".git/objects/d1/7fe85065771f48b668815c66f2fc527118a2fb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649789835,
+      "checksum" : "25789c4fa310cbd02cb4809eea9cb2c6",
+      "fileSize" : 594
+    },
+    {
+      "path" : ".git/logs/refs/remotes/origin/master",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145767,
+      "checksum" : "52f2bd73bb5740e89205113d834e139e",
+      "fileSize" : 1892
+    },
+    {
+      "path" : ".git/objects/ea/4a32f25d0a9f93531ba8ede04bd5059edca2ff",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649799764,
+      "checksum" : "7e481bd087b3e720e97a711585f00185",
+      "fileSize" : 452
+    },
+    {
+      "path" : ".git/objects/73/fd301815fe873c1a59cd4783a0dc0c749bd4c9",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798857,
+      "checksum" : "c4ba734d0d2e7fce16c203729ca44e7f",
+      "fileSize" : 5628
+    },
+    {
+      "path" : "etl.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649787442,
+      "checksum" : "8fba55e4ae5ad9a553c443b10be1467c",
+      "fileSize" : 15595
+    },
+    {
+      "path" : ".git/objects/e0/6cc38419f9b3fb9359e4aa68a0aba7e8294bea",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798781,
+      "checksum" : "c1e6945384dcf4e80b1879983a1d35f0",
+      "fileSize" : 463
+    },
+    {
+      "path" : ".git/objects/87/113c42661a51250a44acdfe02c30e3d4d91918",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "63ac23bd70a47138cf8a639bb1bb0552",
+      "fileSize" : 240
+    },
+    {
+      "path" : ".git/objects/e9/beefdcbf19bbea71717ac01b36f621c93bde27",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649794157,
+      "checksum" : "99ca00d80bacb749d74c89fe714abf9f",
+      "fileSize" : 4504
+    },
+    {
+      "path" : "Резюме.markdown",
+      "mimeType" : "text/markdown",
+      "lastUpdated" : 1635853356,
+      "checksum" : "f7aa8e3c23977cbf990acb3ed4473759",
+      "fileSize" : 5223
+    },
+    {
+      "path" : ".git/objects/f6/38398d129d344291b4e6b942f3a4c3a92eac00",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649784438,
+      "checksum" : "9f94c2f70f53fdb87c636306a9758bc8",
+      "fileSize" : 670
+    },
+    {
+      "path" : ".git/objects/04/099cbb755c9b2a917a9b9f07d0d99d2c4a1517",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798781,
+      "checksum" : "b16941af2fde4218274295079462c52c",
+      "fileSize" : 332
+    },
+    {
+      "path" : ".git/objects/68/7e7abeaeb1838465a80e9b70dd0b680cbbc724",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798781,
+      "checksum" : "5820100bc23743cbfded89eef8cff503",
+      "fileSize" : 182
+    },
+    {
+      "path" : ".git/objects/e0/7fd178c5073a46823dc7900e2b852051af154f",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649785014,
+      "checksum" : "63831b95170cb2a23a7e5556219d3417",
+      "fileSize" : 178
+    },
+    {
+      "path" : ".git/objects/72/7ee8078b44c7e4a2fc145ca0c37a7c2ea77049",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649784942,
+      "checksum" : "48fe563b091fe74a7b2319b9f3d22d9f",
+      "fileSize" : 8124
+    },
+    {
+      "path" : ".ipynb_checkpoints/etl-checkpoint.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649786988,
+      "checksum" : "8fba55e4ae5ad9a553c443b10be1467c",
+      "fileSize" : 15595
+    },
+    {
+      "path" : "orderbook.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649799315,
+      "checksum" : "bd42b1ad2f5b46823c5d6b508770a200",
+      "fileSize" : 27059
+    },
+    {
+      "path" : ".git/hooks/push-to-checkout.sample",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "c7ab00c7784efeadad3ae9b228d4b4db",
+      "fileSize" : 2783
+    },
+    {
+      "path" : ".git/objects/e0/66af8a66d09b30aba848fd99f9f1b63db6e2c3",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649795311,
+      "checksum" : "1551ebeb9db88cb5be03841b08f60007",
+      "fileSize" : 463
+    },
+    {
+      "path" : "index.md",
+      "mimeType" : "text/markdown",
+      "lastUpdated" : 1650145841,
+      "checksum" : "9213fc974e51cae39f8dae93b6c33392",
+      "fileSize" : 3695
+    },
+    {
+      "path" : ".git/objects/2f/c49e8481c86bbc1fde9122c9bf9a9380091240",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649789836,
+      "checksum" : "53390551560198065eb7eaab9faa36f5",
+      "fileSize" : 203
+    },
+    {
+      "path" : ".git/objects/56/c4fd490bdcab95622f98fd68021012e6a86f4a",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649789836,
+      "checksum" : "e6be8d472a3c7693d1e6aa0b9e9b7e22",
+      "fileSize" : 183
+    },
+    {
+      "path" : ".git/objects/eb/c90814b30aa74074d125e888e3ce71a1c49630",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649789835,
+      "checksum" : "19eb5cc371cee8aa1b36f5ff4a0279fd",
+      "fileSize" : 24351
+    },
+    {
+      "path" : ".git/ORIG_HEAD",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649785017,
+      "checksum" : "8fb0306ad834e918924f18504e535b76",
+      "fileSize" : 41
+    },
+    {
+      "path" : ".git/objects/03/f47d215aeae56d2409a461b4f937f6c881bec6",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783712,
+      "checksum" : "159d77492c0705719d67d3a12a8815c6",
+      "fileSize" : 2301
+    },
+    {
+      "path" : ".idea/projects.iml",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650137844,
+      "checksum" : "398c7b1c71df1a2d8289475075c77d4c",
+      "fileSize" : 331
+    },
+    {
+      "path" : ".git/objects/b2/97c169ff3fc3115dfb46564585ded3ec5eef30",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649784438,
+      "checksum" : "3f9963960425b981e34af48c6ec67f18",
+      "fileSize" : 396
+    },
+    {
+      "path" : ".git/objects/a5/37c08303fdb0321a147d2013e229a735587278",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649799764,
+      "checksum" : "c45e217ef01f01532e8d5d01a574fa47",
+      "fileSize" : 9310
+    },
+    {
+      "path" : ".git/objects/83/562bc1c244f2eff5a2b032c7ca3d20224850f5",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "151f8831eed6f46e72b97fe12f6a172d",
+      "fileSize" : 280
+    },
+    {
+      "path" : ".ipynb_checkpoints/tables-checkpoint.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649795211,
+      "checksum" : "2f6cceae1d861df553a6ebb64b6862ef",
+      "fileSize" : 72
+    },
+    {
+      "path" : ".git/objects/b9/282286d623956feebc16d750d4f2e4e241de87",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798781,
+      "checksum" : "8f021d8fa9186edf8a11394ddc9596bd",
+      "fileSize" : 689
+    },
+    {
+      "path" : ".git/objects/9f/f59ce87371b538802d45af3ade15f3ae4778a5",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649789835,
+      "checksum" : "29a4b229c8480da6c74f4af833cf386c",
+      "fileSize" : 30530
+    },
+    {
+      "path" : ".git/info/exclude",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "036208b4a1ab4a235d75c181e685e5a3",
+      "fileSize" : 240
+    },
+    {
+      "path" : ".git/objects/04/2143e068e4afa028b54edef78952047b1a5270",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649784942,
+      "checksum" : "973b9183b5dbd2e2d0c6d2892271275f",
+      "fileSize" : 982
+    },
+    {
+      "path" : ".git/description",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783700,
+      "checksum" : "a0a7c3fff21f2aea3cfa1d0316dd816c",
+      "fileSize" : 73
+    },
+    {
+      "path" : ".git/objects/bf/7ba603c9717e2d8c408310f7acc11356a5b9a8",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649794157,
+      "checksum" : "a1c9fe2dcec0dcd1d4c928bd49550e1c",
+      "fileSize" : 1161
+    },
+    {
+      "path" : ".ipynb_checkpoints/API_ST.INT.ARVL_DS2_en_csv_v2_1345483-checkpoint.csv",
+      "mimeType" : "text/csv",
+      "lastUpdated" : 1648317929,
+      "checksum" : "8c0baed07603b0956987c900fd3476db",
+      "fileSize" : 114139
+    },
+    {
+      "path" : ".git/objects/81/953ad9a5658cdb93b85976cb1b7347771f4972",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649795311,
+      "checksum" : "0e6daf10b157866ae8ad92352b1e09e6",
+      "fileSize" : 249
+    },
+    {
+      "path" : ".git/FETCH_HEAD",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145767,
+      "checksum" : "21bf1e86a34e927481d77d17df0d4820",
+      "fileSize" : 98
+    },
+    {
+      "path" : ".git/objects/a4/6e4484bfff97272ec2e0b638e94cab164b7671",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798781,
+      "checksum" : "2c090f8b37a4f202850eb4715921de98",
+      "fileSize" : 977
+    },
+    {
+      "path" : ".git/objects/95/30aea7156ae48364be4bed0e6a38fab289b5cf",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783724,
+      "checksum" : "e6ced983690ed6b882009c0ab7e7f15e",
+      "fileSize" : 151
+    },
+    {
+      "path" : ".git/objects/2c/98881698df570bda8f641e92945db989b13bc9",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649793053,
+      "checksum" : "068f8b9d073f3448640f3132e1536e63",
+      "fileSize" : 714
+    },
+    {
+      "path" : ".git/config",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649784377,
+      "checksum" : "6207d9c124fc586ee2e9a39a7cddf289",
+      "fileSize" : 449
+    },
+    {
+      "path" : ".git/objects/f2/a516a28d85307811cf84e33eb5fa158a06a50b",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783712,
+      "checksum" : "34d8ca1ed911f766538f83760221caf1",
+      "fileSize" : 432821
+    },
+    {
+      "path" : ".git/refs/heads/master",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "61c4b927fe4a89066c96dd2e99a5de41",
+      "fileSize" : 41
+    },
+    {
+      "path" : ".git/objects/21/4f95c911b1dec7398ec69c8c87daee0f3af3f5",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649799764,
+      "checksum" : "28ebc9efbc9f36c2e2be06f7ffc63f26",
+      "fileSize" : 6056
+    },
+    {
+      "path" : "tables.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649798869,
+      "checksum" : "ab08d9d0497e072b4766f1d39d9ec8df",
+      "fileSize" : 34102
+    },
+    {
+      "path" : "tz8kn98d.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649799416,
+      "checksum" : "10c5e1d13fbfdbfba8274a26058362c8",
+      "fileSize" : 41195
+    },
+    {
+      "path" : ".git/objects/c2/e15018b8b1c6ff91d381066e8396443b845c53",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649789835,
+      "checksum" : "6d0e7b4dada1030eef1b269a3aabe492",
+      "fileSize" : 458
+    },
+    {
+      "path" : ".git/objects/9a/a4352903737f47fbfb62f1be8be57f5c6e8236",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649783712,
+      "checksum" : "4066dbde126a7a299137204c01c8b847",
+      "fileSize" : 8091
+    },
+    {
+      "path" : ".ipynb_checkpoints/basic_sql-checkpoint.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145287,
+      "checksum" : "354a6018587076e0b4abd7740c26e982",
+      "fileSize" : 72076
+    },
+    {
+      "path" : ".git/objects/02/35a40e5fc4aeaedccaafb7833604a22af50c8c",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649793053,
+      "checksum" : "ce9aa93f9e2f12b3dbac2cbd0d707575",
+      "fileSize" : 16553
+    },
+    {
+      "path" : ".git/objects/13/0b5b6814ea7ad6f2867f05c6a14efc3bb20fd4",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649793053,
+      "checksum" : "d3e6fb4607eb6afcbae3751c0139f0f9",
+      "fileSize" : 16725
+    },
+    {
+      "path" : ".git/refs/remotes/origin/master",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145767,
+      "checksum" : "61c4b927fe4a89066c96dd2e99a5de41",
+      "fileSize" : 41
+    },
+    {
+      "path" : ".git/objects/e4/83b7825a4ffe4898d59e39b843adffc3a3de90",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1650145763,
+      "checksum" : "de0ef635a1bafe1f13174df6ea0b88c7",
+      "fileSize" : 196187
+    },
+    {
+      "path" : ".idea/workspace.xml",
+      "mimeType" : "application/xml",
+      "lastUpdated" : 1650132010,
+      "checksum" : "b083cb2043835e1e546a3b9cb8f48175",
+      "fileSize" : 218
+    },
+    {
+      "path" : ".git/objects/21/cb0c660a0bb7fd571de5eaa2a91d632171dd65",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649795311,
+      "checksum" : "6effa0e7d55e3cf6e4c5d6948f717480",
+      "fileSize" : 686
+    },
+    {
+      "path" : "script1.sql",
+      "mimeType" : "application/sql",
+      "lastUpdated" : 1649795620,
+      "checksum" : "72b4d04cdd723f21d9823c165470edd3",
+      "fileSize" : 2597
+    },
+    {
+      "path" : ".git/objects/2b/fc8242b6ea2fe684f3da2f886fe1387f2883af",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649799764,
+      "checksum" : "94eb4a3f9b8c9496c38221158515fb15",
+      "fileSize" : 177
+    },
+    {
+      "path" : ".git/objects/44/496785ceb32511defd53e8a6fd20000e4a4904",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1649789835,
+      "checksum" : "6033de627c7647ecdc3f81a619c7e490",
+      "fileSize" : 2219
     }
   ]
 }
