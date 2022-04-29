@@ -34,7 +34,7 @@ In [this](https://github.com/yukontaf/projects/blob/master/credit_score_default.
 
 ### Credit Card Fraud Detection
 
-In [this](https://github.com/yukontaf/projects/blob/master/cc_fraud_detection.ipynb) script I tried to implement a well-known anomaly detection algorithm that uses inverse PCA transformation 
+In [this](https://nbviewer.org/github/yukontaf/projects/blob/master/cc_fraud_detection.ipynb) script I tried to implement a well-known anomaly detection algorithm that uses inverse PCA transformation 
 
 ### Spread Widening Prediction
 
@@ -53,3 +53,5 @@ Here are some SQL scripts, written by me.
 - And [here](https://github.com/yukontaf/projects/blob/master/tables.ipynb) is a notebook where you can see the tables to which these queries are made (except for the first)
 
 ### Tableau Sample Dashboard
+
+Under developement!
