@@ -34,7 +34,9 @@ In [this](https://github.com/yukontaf/projects/blob/master/credit_score_default.
 
 ### Credit Card Fraud Detection
 
-In [this](https://github.com/yukontaf/projects/blob/master/cc_fraud_detection.ipynb) script I tried to implement a well-known anomaly detection algorithm that uses inverse PCA transformation 
+### Time Series Analysis
+
+### Web Scraping and Aggregating
 
 ### Spread Widening Prediction
 
