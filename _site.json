@@ -290,9 +290,9 @@
     {
       "path" : "noShowAppointment.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1651581342,
-      "checksum" : "55300d75efff1354dabd82c872e754ed",
-      "fileSize" : 7484901
+      "lastUpdated" : 1651594413,
+      "checksum" : "dc2094c0d4628879fc7e33d58a87c6fb",
+      "fileSize" : 3853252
     },
     {
       "path" : ".git/objects/53/d58b99e8642dcb9130e104bc4263c4f850c082",
@@ -1476,6 +1476,13 @@
       "lastUpdated" : 1650146192,
       "checksum" : "dd26f998a5020c11f5ccee690571f14e",
       "fileSize" : 1172
+    },
+    {
+      "path" : "noshowappointments.csv",
+      "mimeType" : "text/csv",
+      "lastUpdated" : 1651587206,
+      "checksum" : "8d5a82cb6077e8858fa4e37bb2b213bc",
+      "fileSize" : 11309137
     },
     {
       "path" : ".git/objects/2b/fc8242b6ea2fe684f3da2f886fe1387f2883af",
