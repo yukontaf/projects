@@ -1,0 +1,179 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+library(tidyverse)
+library(boot)
+library(ggplot2)
+library(PropCIs)
+library(zeallot)
+library(plotly)
+library(pwr)
+con <- DBI::dbConnect(odbc::odbc(),
+  driver = "/usr/local/Cellar/psqlodbc/13.02.0000/lib/psqlodbcw.so",
+  database = "yukontaf",
+  UID = "glebsokolov",
+  host = "localhost",
+  port = 5432
+)
+```
+
+```{sql connection=con, output.var=noShowAppointment}
+SELECT *
+FROM noShowAppointment
+```
+
+```{r func for bootstrap procedure for alcoholism group}
+calc_prob <- function(data, i) {
+  subset <- data[i, ]
+  c <- table(subset$`No-show`, subset$Alcoholism)
+  c[1, ] <- c[1, ] / sum(c[1, ])
+  c[2, ] <- c[2, ] / sum(c[2, ])
+  return (c[1, 1] - c[2, 1])
+}
+```
+
+
+```{r}
+set.seed(1)
+bootstrap_prop_diff <-
+  boot(data = noShowAppointment,
+       statistic = calc_prob,
+       R = 1000)
+```
+
+```{r}
+bootstrap_prop_diff
+plot(bootstrap_prop_diff)
+```
+
+```{r}
+ci <- boot.ci(bootstrap_prop_diff, type='bca')
+```
+
+
+
+
+```{sql connection=con, output.var=heartUci}
+SELECT *
+FROM heart_uci
+```
+
+```{r}
+nrow(filter(noShowAppointment, `No-show`==0))
+```
+
+```{r}
+heartUci <- heartUci %>% as_tibble()
+num <- heartUci %>% select(where(is.numeric)) %>% as_tibble()
+num <- sapply(num, function(x) as.numeric(x)) %>% as_tibble()
+heartUci[, names(num)] <- num
+heartUci
+```
+```{r}
+con <-
+  DBI::dbConnect(
+    odbc::odbc(),
+    driver = "/usr/local/Cellar/psqlodbc/13.02.0000/lib/psqlodbcw.so",
+    database = "yukontaf",
+    UID = "glebsokolov",
+    host = "localhost",
+    port = 5432
+  )
+credit_score <- dbSendQuery(con, "SELECT * FROM credit_score")
+credit_score <- dbFetch(credit_score)
+credit_score %>% as_tibble()
+
+
+for (col in 1:ncol(credit_score)) {
+  colnames(credit_score)[col] <- tolower(colnames(credit_score)[col])
+}
+
+t <- (table(credit_score$default, credit_score$sex))
+t <- as.data.frame(t)
+colnames(t) <- c('default', 'sex', 'cnt')
+
+p5 <- ggplot(t, aes(x = default, y = cnt, fill = sex)) + geom_bar(stat = 'identity')
+ggplotly(p5)
+
+```
+
+
+
+```{r}
+p1 <- ggplot(heartUci, aes(x = Age)) +   
+  geom_histogram()
+ggplotly(p1)
+```
+
+```{r}
+p2 <- ggplot(heartUci, aes(x = RestingBP)) +   
+    geom_histogram()
+```
+
+```{r}
+p3 <- ggplot(heartUci, aes(x = Cholesterol)) +   
+    geom_histogram()
+```
+
+```{r}
+p4 <- ggplot(heartUci, aes(x = MaxHR)) +   
+    geom_histogram()
+```
+
+```{r}
+p5 <-ggplot(heartUci, aes(x = Oldpeak)) +   
+    geom_histogram()
+```
+
+
+```{r}
+summary(heartUci)
+```
+
+```{r}
+dff <- heartUci %>% 
+    select_if(is.integer)
+```
+
+
+```{r}
+table(heartUci$ChestPainType) %>% barplot()
+```
+
+```{r}
+table(heartUci$RestingECG) %>% barplot()
+```
+
+```{r}
+table(heartUci$ExerciseAngina) %>% barplot()
+```
+
+```{r}
+table(heartUci$ST_Slope) %>% barplot()
+```
+
+```{r}
+boxplot(heartUci$RestingBP)
+```
+
+```{r}
+boxplot(RestingBP~ChestPainType, data=heartUci)
+```
+```{r}
+boxplot(Cholesterol~ChestPainType, data=heartUci)
+```
+
+```{r}
+with(heartUci, plot(Age, RestingBP))
+```
+```{r}
+with(heartUci, plot(Age, Cholesterol))
+```
+
