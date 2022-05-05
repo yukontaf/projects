@@ -1072,6 +1072,13 @@
       "fileSize" : 582
     },
     {
+      "path" : "requirements.txt",
+      "mimeType" : "text/plain",
+      "lastUpdated" : 1651774608,
+      "checksum" : "3be1d6fd18f0bba5d5fca407075ed204",
+      "fileSize" : 9872
+    },
+    {
       "path" : ".git/objects/02/81b0281c02996d392a29ffc1cc4340a9a2b80c",
       "mimeType" : "application/octet-stream",
       "lastUpdated" : 1649785014,
