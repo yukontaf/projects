@@ -7,10 +7,8 @@ from main import app
 
 import time
 
-msft = yf.Ticker("MSFT")
-
-msft_history = (
-    pd.DataFrame(msft.history(period="7d", interval="1m"))
+prettify = lambda x: (
+    pd.DataFrame(x.history(period="7d", interval="1m"))
     .sort_index(ascending=True)
     .reset_index()
 )

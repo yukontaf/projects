@@ -1305,9 +1305,9 @@
     {
       "path" : "stockPlot/main.py",
       "mimeType" : "text/x-python-script",
-      "lastUpdated" : 1651789228,
-      "checksum" : "891f042f23943831a807e2acd4e21737",
-      "fileSize" : 1847
+      "lastUpdated" : 1651793050,
+      "checksum" : "a87ce5016c26c45348f131d5930b3774",
+      "fileSize" : 1948
     },
     {
       "path" : ".git/objects/e0/7fd178c5073a46823dc7900e2b852051af154f",
@@ -1340,9 +1340,9 @@
     {
       "path" : "stockPlot/data.py",
       "mimeType" : "text/x-python-script",
-      "lastUpdated" : 1651787360,
-      "checksum" : "8479bdcdc5d39c804d68403305402b1b",
-      "fileSize" : 325
+      "lastUpdated" : 1651789884,
+      "checksum" : "c07b50d01d6504796d0e0df4f43a57c7",
+      "fileSize" : 302
     },
     {
       "path" : ".git/objects/.DS_Store",
@@ -1396,9 +1396,9 @@
     {
       "path" : "stockPlot/__pycache__/data.cpython-310.pyc",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1651787368,
-      "checksum" : "7b2ac5ea7f48f24b2ae2c2776e604fc9",
-      "fileSize" : 546
+      "lastUpdated" : 1651789886,
+      "checksum" : "b2965e2e16421f6fabd17555d25ee118",
+      "fileSize" : 602
     },
     {
       "path" : ".git/objects/9a/a4352903737f47fbfb62f1be8be57f5c6e8236",
@@ -1410,9 +1410,9 @@
     {
       "path" : "stockPlot/__pycache__/main.cpython-310.pyc",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1651789230,
-      "checksum" : "0eb15e18b658b7eeff6a6e2937021c03",
-      "fileSize" : 1862
+      "lastUpdated" : 1651793052,
+      "checksum" : "9e3127630bdc74999fb2d0d9245b0ddf",
+      "fileSize" : 1937
     },
     {
       "path" : "Metadata.csv",

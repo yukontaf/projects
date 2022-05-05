@@ -7,6 +7,8 @@ import datetime
 import plotly.graph_objects as go
 import plotly.express as px
 import sys
+import yfinance as yf
+
 
 sys.path.insert(0, "/Users/glebsokolov/projects/stockPlot/assets")
 from data import *
@@ -14,15 +16,16 @@ from styles import *
 
 import yfinance as yf
 import pandas as pd
-from dash import *
 
 stylesheet1 = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 app = dash.Dash(external_stylesheets=[stylesheet1, dbc.themes.BOOTSTRAP])
 ticker_name = html.Div(
-    [
-        dbc.Label("Ticker Name", html_for="ticker-name"),
-        dbc.Input(type="text", id="ticker-name"),
-    ]
+    dbc.FormFloating(
+        [
+            dbc.Input(type="text", id="ticker-name", n_submit=3),
+            dbc.Label("Ticker Name"),
+        ]
+    )
 )
 
 
@@ -61,10 +64,11 @@ app.layout = html.Div(
 
 @app.callback(
     Output(component_id="fig1", component_property="figure"),
-    Input("interval-component", "n_intervals"),
+    [Input("ticker-name", "value"), Input("interval-component", "n_intervals")],
 )
-def refresh_fig1(i):
-    df = msft_history.iloc[: i + 1, :]
+def refresh_fig1(t, i):
+    data = yf.Ticker(t)
+    df = prettify(data).iloc[i : 30 + i, :]
     fig1 = go.Figure(
         data=[
             go.Candlestick(
