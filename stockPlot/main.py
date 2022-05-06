@@ -19,6 +19,7 @@ import pandas as pd
 
 stylesheet1 = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 app = dash.Dash(external_stylesheets=[stylesheet1, dbc.themes.BOOTSTRAP])
+slider = dcc.Slider(3, 15, 1, value=5, id="ma")
 ticker_name = html.Div(
     dbc.FormFloating(
         [
@@ -29,21 +30,31 @@ ticker_name = html.Div(
 )
 
 
+def breaks(num):
+    return [html.Br()] * num
+
+
 sidebar = html.Div(
-    [html.H2("Parameters", style=TEXT_STYLE), html.Hr(), ticker_name],
+    [
+        html.H2("Parameters", style=TEXT_STYLE),
+        html.Hr(),
+        dbc.Card(ticker_name),
+        *breaks(1),
+        dbc.Card(dbc.CardBody([html.P("Choose MA period"), slider])),
+    ],
     style=SIDEBAR_STYLE,
 )
 fig1 = dcc.Graph(id="fig1")
 
 c_first_row = dbc.Row(
     [
-        dbc.Col(dbc.Card(fig1), width=6),
+        dbc.Col(dbc.Card(fig1)),
     ]
 )
 
 content = html.Div(
     [
-        html.H2("Analytics Dashboard Template", style=TEXT_STYLE),
+        html.H2("Live Stock Exchange Chart", style=TEXT_STYLE),
         c_first_row,
         html.Hr(),
     ],
@@ -64,11 +75,20 @@ app.layout = html.Div(
 
 @app.callback(
     Output(component_id="fig1", component_property="figure"),
-    [Input("ticker-name", "value"), Input("interval-component", "n_intervals")],
+    [
+        Input("ticker-name", "value"),
+        Input("interval-component", "n_intervals"),
+        Input("ma", "value"),
+    ],
 )
-def refresh_fig1(t, i):
-    data = yf.Ticker(t)
-    df = prettify(data).iloc[i : 30 + i, :]
+def refresh_fig1(name, i, smoothing):
+    data = yf.Ticker(name)
+    df = prettify(data).iloc[i : 60 + i, :]
+    moving_average = (
+        df.rolling(window=smoothing)
+        .mean()
+        .apply(lambda x: (x["Open"] + x["High"] + x["Low"] + x["Close"]) / 4, axis=1)
+    )
     fig1 = go.Figure(
         data=[
             go.Candlestick(
@@ -77,8 +97,13 @@ def refresh_fig1(t, i):
                 high=df["High"],
                 low=df["Low"],
                 close=df["Close"],
+                name="OHLC",
             )
         ]
+    )
+    fig1.update_layout(height=650, title=f"{name.upper()}")
+    fig1.add_trace(
+        go.Scatter(x=df["Datetime"], y=moving_average, name="MA5", mode="lines")
     )
     return fig1
 
