@@ -30,7 +30,7 @@ Within this work I've done some basic exploratory data analysis, the main purpos
 
 ### Credit Default Scoring (Hypothesis Testing)
 
-In [this](https://github.com/yukontaf/projects/blob/master/credit_score_default.ipynb) script written in R, I've done some exploratory data analysis and tested hypotheses concerning default, i.e. how does presence in certain social category (sex, marriage, education level) impact the returning of credit, and also answered the question if the mean credit limit differs for default and non-default groups.
+In [this](creditScore.html) script written in R, I've done some exploratory data analysis and tested hypotheses concerning default, i.e. how does presence in certain social category (sex, marriage, education level) impact the returning of credit, and also answered the question if the mean credit limit differs for default and non-default groups.
 
 ### Credit Card Fraud Detection
 

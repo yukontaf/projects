@@ -3,9 +3,9 @@ title: "R Notebook"
 output: html_notebook
 ---
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code.
 
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*.
 
 ```{r}
 library(tidyverse)
@@ -39,7 +39,6 @@ calc_prob <- function(data, i) {
 }
 ```
 
-
 ```{r}
 set.seed(1)
 bootstrap_prop_diff <-
@@ -57,9 +56,6 @@ plot(bootstrap_prop_diff)
 ci <- boot.ci(bootstrap_prop_diff, type='bca')
 ```
 
-
-
-
 ```{sql connection=con, output.var=heartUci}
 SELECT *
 FROM heart_uci
@@ -76,7 +72,9 @@ num <- sapply(num, function(x) as.numeric(x)) %>% as_tibble()
 heartUci[, names(num)] <- num
 heartUci
 ```
+
 ```{r}
+library(DBI)
 con <-
   DBI::dbConnect(
     odbc::odbc(),
@@ -99,11 +97,31 @@ t <- (table(credit_score$default, credit_score$sex))
 t <- as.data.frame(t)
 colnames(t) <- c('default', 'sex', 'cnt')
 
-p5 <- ggplot(t, aes(x = default, y = cnt, fill = sex)) + geom_bar(stat = 'identity')
+p5 <-
+  ggplot(t, aes(x = default, y = cnt, fill = sex)) + geom_bar(stat = 'identity',  position = position_dodge())
 ggplotly(p5)
 
 ```
 
+```{r}
+t <- (table(credit_score$default, credit_score$education))
+t <- as.data.frame(t)
+colnames(t) <- c('default', 'education', 'cnt')
+
+p6 <-
+  ggplot(t, aes(x = default, y = cnt, fill=education)) + geom_bar(stat = 'identity',  position = position_dodge())
+ggplotly(p6)
+```
+
+```{r}
+t <- (table(credit_score$default, credit_score$marriage))
+t <- as.data.frame(t)
+colnames(t) <- c('default', 'marriage', 'cnt')
+
+p7 <-
+  ggplot(t, aes(x = default, y = cnt, fill=marriage)) + geom_bar(stat = 'identity',  position = position_dodge())
+ggplotly(p7)
+```
 
 
 ```{r}
@@ -132,7 +150,6 @@ p5 <-ggplot(heartUci, aes(x = Oldpeak)) +
     geom_histogram()
 ```
 
-
 ```{r}
 summary(heartUci)
 ```
@@ -141,7 +158,6 @@ summary(heartUci)
 dff <- heartUci %>% 
     select_if(is.integer)
 ```
-
 
 ```{r}
 table(heartUci$ChestPainType) %>% barplot()
@@ -166,6 +182,7 @@ boxplot(heartUci$RestingBP)
 ```{r}
 boxplot(RestingBP~ChestPainType, data=heartUci)
 ```
+
 ```{r}
 boxplot(Cholesterol~ChestPainType, data=heartUci)
 ```
@@ -173,7 +190,7 @@ boxplot(Cholesterol~ChestPainType, data=heartUci)
 ```{r}
 with(heartUci, plot(Age, RestingBP))
 ```
+
 ```{r}
 with(heartUci, plot(Age, Cholesterol))
 ```
-
