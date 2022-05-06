@@ -1193,9 +1193,9 @@
     {
       "path" : "requirements.txt",
       "mimeType" : "text/plain",
-      "lastUpdated" : 1651774608,
-      "checksum" : "3be1d6fd18f0bba5d5fca407075ed204",
-      "fileSize" : 9872
+      "lastUpdated" : 1651815554,
+      "checksum" : "3e0cf02478e2055b953e779fea9bc6a7",
+      "fileSize" : 20
     },
     {
       "path" : ".git/objects/02/81b0281c02996d392a29ffc1cc4340a9a2b80c",
@@ -1305,9 +1305,9 @@
     {
       "path" : "stockPlot/main.py",
       "mimeType" : "text/x-python-script",
-      "lastUpdated" : 1651799331,
-      "checksum" : "431fe05b0891983f35bfa59368b3e779",
-      "fileSize" : 2654
+      "lastUpdated" : 1651815529,
+      "checksum" : "a85ce9ccef1b6855826116ac72ccbdeb",
+      "fileSize" : 4305
     },
     {
       "path" : ".git/objects/e0/7fd178c5073a46823dc7900e2b852051af154f",
@@ -1340,9 +1340,9 @@
     {
       "path" : "stockPlot/data.py",
       "mimeType" : "text/x-python-script",
-      "lastUpdated" : 1651789884,
-      "checksum" : "c07b50d01d6504796d0e0df4f43a57c7",
-      "fileSize" : 302
+      "lastUpdated" : 1651811328,
+      "checksum" : "0e9f353d3bebfbf0ac45149820ba3555",
+      "fileSize" : 823
     },
     {
       "path" : ".git/objects/.DS_Store",
@@ -1396,9 +1396,9 @@
     {
       "path" : "stockPlot/__pycache__/data.cpython-310.pyc",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1651789886,
-      "checksum" : "b2965e2e16421f6fabd17555d25ee118",
-      "fileSize" : 602
+      "lastUpdated" : 1651811330,
+      "checksum" : "a5f9fa0c7f43d90e9109e25f48ace7e9",
+      "fileSize" : 1243
     },
     {
       "path" : ".git/objects/9a/a4352903737f47fbfb62f1be8be57f5c6e8236",
@@ -1410,9 +1410,9 @@
     {
       "path" : "stockPlot/__pycache__/main.cpython-310.pyc",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1651799334,
-      "checksum" : "7d9aabed7e7d5c5ac3ac1cace966551c",
-      "fileSize" : 2691
+      "lastUpdated" : 1651815531,
+      "checksum" : "8cc17162c1c9e58c939feb4787a6b859",
+      "fileSize" : 3597
     },
     {
       "path" : "Metadata.csv",
