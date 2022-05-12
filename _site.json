@@ -554,6 +554,13 @@
       "fileSize" : 3145921
     },
     {
+      "path" : "cohortAnalysis.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1652354236,
+      "checksum" : "fa756f4c4c55ba2a57ab78265df60da2",
+      "fileSize" : 1060864
+    },
+    {
       "path" : ".git/objects/64/8166a7a264b7d9f38e3433fe5e6e1b99d836c9",
       "mimeType" : "application/octet-stream",
       "lastUpdated" : 1651581347,
@@ -888,6 +895,13 @@
       "lastUpdated" : 1651789570,
       "checksum" : "ac791681c2de7865d9d34f17f9ef9e98",
       "fileSize" : 392
+    },
+    {
+      "path" : "onlineRetail.feather",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1652349655,
+      "checksum" : "2534b940b9699d2e49e96e475c9bf670",
+      "fileSize" : 18604474
     },
     {
       "path" : ".git/COMMIT_EDITMSG",
