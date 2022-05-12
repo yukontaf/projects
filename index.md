@@ -16,6 +16,8 @@ List of projects:
 
 Within this work I've done some basic exploratory data analysis, the main purpose of it was to make me familiar with the Dash library. The dashboard itself can be found [here](https://nyse-data.herokuapp.com/) it is fully interactive, you can hover over each graph in order to see the details, you can also zoom into details (view more navigation buttons in the upper right angle)
 
+- The next step in creating dashboards – wrap all the visuals into bootstrap components. My very first try in this field was an app where you can enter a ticker name and watch it's candlestick chart live, needless to say it looks far more pretty than the previous dashboard, it will be uploaded soon.
+
 ### Customer Churn Prediction
 
 [Here](https://github.com/yukontaf/projects/blob/master/churn-analysis.ipynb) I've done some basic EDA, the main purpose is to create an efficient model to predict the churn of the client given some parameters. I've also planned to build a web app (via streamlit) to make it easy to make predictions, especially for the part of the audience that doesn't have a configured jupyter notebook at hand. Via this work, I demonstrate the ability not only to build but also a fine-tune an ML model with optuna package.
