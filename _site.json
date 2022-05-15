@@ -52,9 +52,9 @@
     {
       "path" : "noShowAppointment.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1651826914,
-      "checksum" : "7a275a62133393709c05b878750e3f87",
-      "fileSize" : 122864
+      "lastUpdated" : 1652360188,
+      "checksum" : "d4a81db7cda43f563d614b9452b61c3b",
+      "fileSize" : 7708373
     },
     {
       "path" : ".git/objects/29/346a7fdbe16a4cb463b7167563d71a6a786884",
@@ -62,13 +62,6 @@
       "lastUpdated" : 1651275672,
       "checksum" : "0320420c15220cd633a90f219637d94b",
       "fileSize" : 179
-    },
-    {
-      "path" : "cc_fraud_detection.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1651580922,
-      "checksum" : "315be5885f9a47489e33125dc4624ca4",
-      "fileSize" : 21992242
     },
     {
       "path" : ".git/objects/2c/98881698df570bda8f641e92945db989b13bc9",
@@ -162,13 +155,6 @@
       "fileSize" : 509
     },
     {
-      "path" : "churn-analysis.ipynb",
-      "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649784841,
-      "checksum" : "cb3dcd1f600beeb888e54cce9a697d16",
-      "fileSize" : 1349623
-    },
-    {
       "path" : ".git/objects/bd/f3e505b7b94830245dd72f6469ae8250d4a06f",
       "mimeType" : "application/octet-stream",
       "lastUpdated" : 1649799764,
@@ -178,9 +164,9 @@
     {
       "path" : "tables.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649798869,
-      "checksum" : "ab08d9d0497e072b4766f1d39d9ec8df",
-      "fileSize" : 34102
+      "lastUpdated" : 1652358181,
+      "checksum" : "7fee84bc2dc5c3c757630f5869aa7e37",
+      "fileSize" : 34103
     },
     {
       "path" : ".git/hooks/pre-commit.sample",
@@ -262,9 +248,9 @@
     {
       "path" : "orderbook.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649799315,
-      "checksum" : "bd42b1ad2f5b46823c5d6b508770a200",
-      "fileSize" : 27059
+      "lastUpdated" : 1652357987,
+      "checksum" : "95683787e54f6685185d05b2a3c340cb",
+      "fileSize" : 27071
     },
     {
       "path" : ".git/objects/d4/04ce6fd960b58eb7fbb5edbeedeac675a1a133",
@@ -554,11 +540,18 @@
       "fileSize" : 3145921
     },
     {
+      "path" : "churnAnalysis.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1652355804,
+      "checksum" : "30451d1ba008cffe754ed06e8d49b16a",
+      "fileSize" : 1349624
+    },
+    {
       "path" : "cohortAnalysis.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1652354236,
-      "checksum" : "fa756f4c4c55ba2a57ab78265df60da2",
-      "fileSize" : 1060864
+      "lastUpdated" : 1652368951,
+      "checksum" : "1c630881eb95635601725513c8d7e018",
+      "fileSize" : 8004545
     },
     {
       "path" : ".git/objects/64/8166a7a264b7d9f38e3433fe5e6e1b99d836c9",
@@ -745,9 +738,9 @@
     {
       "path" : "basic_sql.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1650146397,
-      "checksum" : "9f74aad001712524d4af477110364150",
-      "fileSize" : 59738
+      "lastUpdated" : 1652358126,
+      "checksum" : "2fd70dc4e826ffdaefa78a4a0930a768",
+      "fileSize" : 61753
     },
     {
       "path" : ".git/objects/2d/f7c36c2fba91cd310f1726c68352659fb61bf8",
@@ -815,9 +808,9 @@
     {
       "path" : "dummy.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1651817834,
-      "checksum" : "70655857df322f2a2b34e55548c1d6b0",
-      "fileSize" : 15974
+      "lastUpdated" : 1652366729,
+      "checksum" : "c121d446436a7c854ab7f78112bacb8a",
+      "fileSize" : 16394
     },
     {
       "path" : ".git/hooks/pre-merge-commit.sample",
@@ -829,9 +822,9 @@
     {
       "path" : "etl.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649787442,
-      "checksum" : "8fba55e4ae5ad9a553c443b10be1467c",
-      "fileSize" : 15595
+      "lastUpdated" : 1652355863,
+      "checksum" : "6051642a3416731a74cb9c17e5ffda98",
+      "fileSize" : 15596
     },
     {
       "path" : ".git/objects/3c/cb5f6a8a011d1510c2f81781665755a7956e30",
@@ -857,9 +850,9 @@
     {
       "path" : "tz8kn98d.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649799416,
-      "checksum" : "10c5e1d13fbfdbfba8274a26058362c8",
-      "fileSize" : 41195
+      "lastUpdated" : 1652358021,
+      "checksum" : "1b9fbfde5f3e0e6c5642033d30bc70a1",
+      "fileSize" : 49333
     },
     {
       "path" : ".git/objects/de/7e46f54698c0bb587db597cf6767caed944494",
@@ -1590,6 +1583,13 @@
       "fileSize" : 3589
     },
     {
+      "path" : "ccFraudDetection.ipynb",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1652357756,
+      "checksum" : "03151394f14c74f1309fd25b4098d6e2",
+      "fileSize" : 269373
+    },
+    {
       "path" : ".git/objects/e0/7fd178c5073a46823dc7900e2b852051af154f",
       "mimeType" : "application/octet-stream",
       "lastUpdated" : 1649785014,
@@ -1968,6 +1968,13 @@
       "fileSize" : 114139
     },
     {
+      "path" : "creditcard.feather",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1652356515,
+      "checksum" : "470eb265d2fb8bd987fd7ae37143b07b",
+      "fileSize" : 65651218
+    },
+    {
       "path" : ".git/objects/59/ba69a88db3ed91efee6c0c917606d504894d0e",
       "mimeType" : "application/octet-stream",
       "lastUpdated" : 1649794157,
@@ -2061,9 +2068,9 @@
     {
       "path" : "Case6.ipynb",
       "mimeType" : "application/octet-stream",
-      "lastUpdated" : 1649781930,
-      "checksum" : "b7c4d38093027c662ce5a0c8c9ab92aa",
-      "fileSize" : 1156928
+      "lastUpdated" : 1652358467,
+      "checksum" : "a41d0f8cf564fb5172f502e3af3c2818",
+      "fileSize" : 1156929
     },
     {
       "path" : ".git/objects/54/5277b31f89583508a026c6d48ddaeb3a5b15b2",
